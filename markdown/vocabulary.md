@@ -40,9 +40,9 @@
 - [ἀλλά](https://en.wiktionary.org/wiki/ἀλλά#Conjunction): but, however, nevertheless
 - [δέ](https://en.wiktionary.org/wiki/δέ#Conjunction): and, but
 - [ἤ](https://en.wiktionary.org/wiki/ἤ#Conjunction): or
-- [ἤ ... ἤ](https://en.wiktionary.org/wiki/ἤ ... ἤ#Conjunction): either ... or
+- [ἤ ... ἤ](https://en.wiktionary.org/wiki/ἤ#Conjunction): either ... or
 - [καί](https://en.wiktionary.org/wiki/καί#Conjunction): and
-- [καί ... καί](https://en.wiktionary.org/wiki/καί ... καί#Conjunction): both ... and
+- [καί ... καί](https://en.wiktionary.org/wiki/καί#Conjunction): both ... and
 
 ## Chapter 4
 
@@ -121,13 +121,13 @@
 
 ### Conjunction
 - [γἀρ](https://en.wiktionary.org/wiki/γἀρ#Conjunction): for, because
-- [καί γάρ](https://en.wiktionary.org/wiki/καί γάρ#Conjunction): for in fact
+- [καί γάρ](https://en.wiktionary.org/wiki/καί#Conjunction): for in fact
 - [μέν](https://en.wiktionary.org/wiki/μέν#Conjunction): (contrast)
 - [οὐδέ](https://en.wiktionary.org/wiki/οὐδέ#Conjunction): and not, but not, not even
-- [οὐδέ ... οὐδέ](https://en.wiktionary.org/wiki/οὐδέ ... οὐδέ#Conjunction): neither ... nor
+- [οὐδέ ... οὐδέ](https://en.wiktionary.org/wiki/οὐδέ#Conjunction): neither ... nor
 - [τε](https://en.wiktionary.org/wiki/τε#Conjunction): and
-- [τε ... καί](https://en.wiktionary.org/wiki/τε ... καί#Conjunction): both ... and
-- [τε ... τε](https://en.wiktionary.org/wiki/τε ... τε#Conjunction): both ... and
+- [τε ... καί](https://en.wiktionary.org/wiki/τε#Conjunction): both ... and
+- [τε ... τε](https://en.wiktionary.org/wiki/τε#Conjunction): both ... and
 
 ### Adjective
 - [ἀγαθός, ἀγαθή, ἀγαθόν](https://en.wiktionary.org/wiki/ἀγαθός#Declension): good
@@ -173,7 +173,7 @@
 - [ἐθέλω, ἐθελήσομαι, ἠθέλησα](https://en.wiktionary.org/wiki/ἐθέλω#Inflection): will, wish
 - [κελεύω, κελεύσω, ἐκέλευσα](https://en.wiktionary.org/wiki/κελεύω#Inflection): command, order
 - [μέλλω, μελλήσω, ἐμέλλησα](https://en.wiktionary.org/wiki/μέλλω#Inflection): intend, be about to
-- [οἷός τέ εἰμι](https://en.wiktionary.org/wiki/οἷός τέ εἰμι#Inflection): am such as
+- [οἷός τέ εἰμι](https://en.wiktionary.org/wiki/οἷός#Inflection): am such as
 
 ### Noun
 - [ἀρχή, ἀρχῆς, ἡ](https://en.wiktionary.org/wiki/ἀρχή#Declension): rule; empire; province; beginning
@@ -226,7 +226,7 @@
 
 ### Conjunction
 - [μηδέ](https://en.wiktionary.org/wiki/μηδέ#Conjunction): and not, but not; nor; not even
-- [μήτε ... μήτε](https://en.wiktionary.org/wiki/μήτε ... μήτε#Conjunction): neither ... nor
+- [μήτε ... μήτε](https://en.wiktionary.org/wiki/μήτε#Conjunction): neither ... nor
 
 ### Adverb
 - [οὔποτε/μήποτε](https://en.wiktionary.org/wiki/οὔποτε/μήποτε#Adverb): never
@@ -310,7 +310,7 @@
 - [μάχομαι, μαχήσομαι, ἐμαχησάμην](https://en.wiktionary.org/wiki/μάχομαι#Inflection): fight (against)
 - [νομίζω, νομιῶ, ἐνόμισα](https://en.wiktionary.org/wiki/νομίζω#Inflection): think, believe in
 - [ὁμολογέω, ὁμολογήσω, ὡμολόγησα](https://en.wiktionary.org/wiki/ὁμολογέω#Inflection): agree; admit
-- [χἀριν ἔχω](https://en.wiktionary.org/wiki/χἀριν ἔχω#Inflection): be grateful, give thanks
+- [χἀριν ἔχω](https://en.wiktionary.org/wiki/χἀριν#Inflection): be grateful, give thanks
 
 ### Noun
 - [ἄστυ, ἄστεως, τό](https://en.wiktionary.org/wiki/ἄστυ#Declension): town

@@ -62,6 +62,8 @@ for line in sys.stdin:
     pos = fields[3]
     parts = [x.strip() for x in form.split(",")]
     part0 = parts[0]
+    if " " in part0:
+        part0 = part0.split(" ")[0]
     if href_dict[pos]:
         part0_link = (
             f"[{form}](https://en.wiktionary.org/wiki/{part0}#{href_dict[pos]})"
