@@ -45,7 +45,7 @@
 ## Chapter 7
 - [Ἕλλην, Ἕλληνος, ο](https://en.wiktionary.org/wiki/Ἕλλην#Declension): Greek
 - [ἡγεμών, ἡγεμόνος, ο](https://en.wiktionary.org/wiki/ἡγεμών#Declension): leader
-- [κήρυξ, κήρυκος, ο](https://en.wiktionary.org/wiki/κήρυξ#Declension): herald
+- [κῆρυξ, κήρυκος, ο](https://en.wiktionary.org/wiki/κῆρυξ#Declension): herald
 - [ὄνομα, ὀνόματος, τὸ](https://en.wiktionary.org/wiki/ὄνομα#Declension): name
 - [πατρίς, πατρίδος, ἡ](https://en.wiktionary.org/wiki/πατρίς#Declension): fatherland
 - [πρᾶγμα, πράγματος, τὸ](https://en.wiktionary.org/wiki/πρᾶγμα#Declension): thing, matter, act; (pl.) circumstances
