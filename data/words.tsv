@@ -1,0 +1,244 @@
+form	translation	chapter	POS
+βλάπτω, βλάψω, ἔβλαψα	harm, injure, damage	2	VERB
+γράφω, γράψω, ἔγραψα	write	2	VERB
+διδάσκω, διδάξω, ἐδίδαξα	teach	2	VERB
+διώκω, διώξω, ἔδίωξα	pursue	2	VERB
+θύω, θύσω, ἔθυσα	sacrifice, make a sacrifice	2	VERB
+λύω, λύσω, ἔλυσα	release, set free; undo, destroy	2	VERB
+παύω, παύσω, ἔπαυσα	stop	2	VERB
+πείθω, πείσω, ἔπεισα	persuade	2	VERB
+πέμπω, πέμψω, ἔπεμψα	send	2	VERB
+στρατεύω, στρατεύσω, ἐστράτευσα	march; wage war	2	VERB
+σῴζω, σώσω, ἔσωσα	save	2	VERB
+ἀγορά, ἀγορᾶς, ἡ	marketplace	3	NOUN
+ἄνθρωπος, ἀνθρώπου, ὁ	man, human	3	NOUN
+δῶρον, δώρου, τό	gift	3	NOUN
+ἔργον, ἔργου, τό	work	3	NOUN
+θάλαττα, θαλάττης, ἡ	sea	3	NOUN
+θεά, θεᾶς, ἡ	goddess	3	NOUN
+θεός, θεοῦ, ὁ	god	3	NOUN
+ἵππος, ἵππου, ὁ	horse	3	NOUN
+κώμη, κώμης, ἡ	village	3	NOUN
+ξένος, ξένου, ὁ	stranger, guest	3	NOUN
+οἰκία, οἰκίας, ἡ	house	3	NOUN
+τέκνον, τέκνου, τό	child	3	NOUN
+τιμή, τιμῆς, ἡ	honor	3	NOUN
+φίλος, φίλου, ὁ	friend	3	NOUN
+ὦ	O!	3	INTER
+ἀλλά	but, however, nevertheless	3	CONJ
+δέ	and, but	3	CONJ
+ἤ	or	3	CONJ
+ἤ ... ἤ	either ... or	3	CONJ
+καί	and	3	CONJ
+καί ... καί	both ... and	3	CONJ
+ἀπό	from, away from, of	4	PREP
+εἰς	into, onto	4	PREP
+ἐκ	out of, from	4	PREP
+ἐν	in, on; (plural) among	4	PREP
+πρὀς	from; on the side of; in favor of	4	PREP
+πρὀς	near, at; in addition to	4	PREP
+πρὀς	to, toward; in relation to	4	PREP
+Ἀθῆναι, Ἀθηνῶν, αἱ	Athens	4	NOUN
+ἔτος, ἔτους, τό	year	4	NOUN
+λόγος, λόγου, ὁ	word	4	NOUN
+νεανίας, νεανίου, ὁ	youth	4	NOUN
+ὁδός, ὁδοῦ, ἡ	way, road	4	NOUN
+Πέρσης, Πέρσου, ὁ	Persian	4	NOUN
+πολίτης, πολίτου, ὁ	citizen	4	NOUN
+ποταμός, ποταμοῦ, ὁ	river	4	NOUN
+στρατιώτης, στρατιώτου, ὁ	soldier	4	NOUN
+Σωκράτης, Σωκράτους, ὁ	Socrates	4	NOUN
+τεῖχος, τείχους, τό	wall	4	NOUN
+χρῆμα, χρήματος, τό	thing	4	NOUN
+χώρα, χώρας, ἡ	land, country	4	NOUN
+ἀεί	always	4	ADV
+καί	also, too, even	4	ADV
+νῦν	now	4	ADV
+ου	not	4	ADV
+οὐ	not	4	ADV
+οὔ	not	4	ADV
+οὐκ	not	4	ADV
+οὐχ	not	4	ADV
+βασιλεύω, βασιλεύσω, ἐβασίλευσα	reign, rule	5	VERB
+λέγω, ἐρῶ, εἶπον	say, speak	5	VERB
+λείπω, λείψω, ἔλιπον	leave, depart	5	VERB
+πράττω, πράξω, ἔπραξα	do, accomplish	5	VERB
+φεύγω, φεύξομαι, ἔφυγον	flee, escape	5	VERB
+φυλάττω, φυλάξω, ἐφύλαξα	guard, protect	5	VERB
+διἀ	through	5	PREP
+διἀ	because of, on account of	5	PREP
+μετά	with	5	PREP
+μετά	after	5	PREP
+περί	about, concerning	5	PREP
+περί	around	5	PREP
+ἡμέρα, ἡμέρας, ἡ	day	5	NOUN
+εὔ	well	5	ADV
+κακῶς	badly	5	ADV
+τί	what?	6	PRO
+τίς	who?	6	PRO
+ἀδελφός, ἀδελφοῦ, ὁ	brother	6	NOUN
+βάρβαρος, βαρβάρου, ὁ/ἡ	foreigner	6	NOUN
+βίος, βίου, ὁ	life	6	NOUN
+θάνατος, θανάτου, ὁ	death	6	NOUN
+ὅπλον, ὅπλου, τό	weapon	6	NOUN
+στρατηγός, στρατηγοῦ, ὁ	general	6	NOUN
+γἀρ	for, because	6	CONJ
+καί γάρ	for in fact	6	CONJ
+μέν	(contrast)	6	CONJ
+οὐδέ	and not, but not, not even	6	CONJ
+οὐδέ ... οὐδέ	neither ... nor	6	CONJ
+τε	and	6	CONJ
+τε ... καί	both ... and	6	CONJ
+τε ... τε	both ... and	6	CONJ
+ἀγαθός, ἀγαθή, ἀγαθόν	good	6	ADJ
+Ἀθηναῖος, Ἀθηναίa, Ἀθηναίου	Athenian	6	ADJ
+δίκαιος, δικαία, δίκαιον	just, righteous	6	ADJ
+κακός, κακή, κακόν	bad, evil	6	ADJ
+καλός, καλή, καλόν	beautiful, good	6	ADJ
+μακρός, μακρά, μακρόν	long	6	ADJ
+μικρός, μικρά, μικρόν	small, little	6	ADJ
+σοφός, σοφή, σοφόν	wise	6	ADJ
+'ἔχω, ἔξω/σχήσω, ἔσχον (impf. εἶχον)	have	7	VERB
+ἄγω, ἄξω, ἤγαγον	lead, bring	7	VERB
+εἰμί, ἔσθμαι (present enc. excep 2 sg imperf. ἦν)	be	7	VERB
+λαμβάνω, λήψομαι, ἔλαβον	take, seize, receive	7	VERB
+ὀνομάξω, ὀνομάσω, ὠνὀμασα	name, call by name, call X and X (2 acc)	7	VERB
+φέρω, οἴσω, ὠωὀμασα	carry, bear, bring	7	VERB
+σὖν	with	7	PREP
+Ἕλλην, Ἕλληνος, ο	Greek	7	NOUN
+ἡγεμών, ἡγεμόνος, ο	leader	7	NOUN
+κῆρυξ, κήρυκος, ο	herald	7	NOUN
+ὄνομα, ὀνόματος, τὸ	name	7	NOUN
+πατρίς, πατρίδος, ἡ	fatherland	7	NOUN
+πρᾶγμα, πράγματος, τὸ	thing, matter, act; (pl.) circumstances	7	NOUN
+ὕδωρ, ὕδατος, τὸ	water	7	NOUN
+φύλαξ, φύλακος, ο	guard	7	NOUN
+σὖν	so, therefor, in fact	7	ADV
+τότε	then, at that time	7	ADV
+ἄρχω, ἀρξομαι, ἦρξα	begin, command, rule	8	VERB
+ἐθέλω, ἐθελήσομαι, ἠθέλησα	will, wish	8	VERB
+κελεύω, κελεύσω, ἐκέλευσα	command, order	8	VERB
+μέλλω, μελλήσω, ἐμέλλησα	intend, be about to	8	VERB
+οἷός τέ εἰμι	am such as	8	VERB
+ἀρχή, ἀρχῆς, ἡ	rule; empire; province; beginning	8	NOUN
+ἄρχων, ἄρχοντος, ὁ	archon, ruler, leader	8	NOUN
+Ἑλλάς, Ἑλλάδος, ἡ	Greece	8	NOUN
+κάμηλος, καμήλου, ὁ	camel	8	NOUN
+ποιητής, ποιητοῦ, ὁ	poet	8	NOUN
+μή	not	8	ADV
+πάλιν	back; again	8	ADV
+τοτἐ	at some time, ever, in the world	8	ADV
+δέκατος, δέκατη, δέκατον	tenth	8	ADJ
+μέγας, μεγάλη, μέγα	great, large	8	ADJ
+πᾶς, πᾶσα, πᾶν	every, all	8	ADJ
+τάλας, τάλαινα, τάλαν	wretched, miserable, suffering	8	ADJ
+αὐτή	she, her	9	PRO
+αὐτό	it	9	PRO
+αὐτός	he, him	9	PRO
+ἐγώ	I, me	9	PRO
+ἡμεῖς	we, us	9	PRO
+μηδείς	no one (in negative clauses)	9	PRO
+μηδεμία	not any, none (in negative clauses)	9	PRO
+μηδέν	nothing (in negative clauses)	9	PRO
+οὐδείς	no one, nobody	9	PRO
+οὐδεμία	not any, none	9	PRO
+οὐδέν	nothing	9	PRO
+σύ	you (singular)	9	PRO
+ὑμεῖς	you (plural)	9	PRO
+ἀνήρ, ἀνδρός, ὁ	man, husband	9	NOUN
+γυνή, γυναικός, ἡ	woman, wife	9	NOUN
+δίκη, δίκης, ἡ	justice; trial, lawsuit; penalty	9	NOUN
+μήτηρ, μητρός, ἡ	mother	9	NOUN
+νὺξ, νυκτός, ἡ	night	9	NOUN
+παῖς, παιδός, τό/ὁ/ἡ	child, boy, girl 	9	NOUN
+πατήρ, πατρός, ὁ	father	9	NOUN
+πούς, ποδός, ὁ	foot	9	NOUN
+πῦρ, πυρός, τό	fire	9	NOUN
+στάδιον, σταδίου, τό	stade (3/5 of a mile)	9	NOUN
+χείρ, χειρός, ἡ	hand	9	NOUN
+χρόνος, χρόνου, ὁ	time	9	NOUN
+μηδέ	and not, but not; nor; not even	9	CONJ
+μήτε ... μήτε	neither ... nor	9	CONJ
+οὔποτε/μήποτε	never	9	ADV
+ἄλλος, ἄλλη, ἄλλο	other, another	9	ADJ
+ἀκούω, ἀκούσω, ἤκουσα	listen	10	VERB
+ἀποθνήσκω, ἀποθανοῦμαι, ἀπέθανον	die	10	VERB
+δράω, δράσω, ἔδρασα	do, act	10	VERB
+θνήσκω, θανοῦμαι, ἔθανον	die	10	VERB
+ὁράω, ὄψομαι, εἶδον	see	10	VERB
+ποιέω, ποιήσω, ἐποίησα	make, do	10	VERB
+τιμάω, τιμήσω, ἐτίμησα	honor	10	VERB
+φιλέω, φιλήσω, ἐφίλησα	love	10	VERB
+κατά	down from, down upon	10	PREP
+ἄν	marks irrealis	10	PART
+γῆ, γῆς, ἡ	earth	10	NOUN
+εἰρήνη, εἰρήνης, ἡ	peace	10	NOUN
+ἐλπίς, ἐλπίδος, ἡ	hope	10	NOUN
+Ξενοφῶν, Ξενοφῶντος, ὁ	Xenophon	10	NOUN
+σύμμαχος, συμμάχου, ὁ/ἡ	ally	10	NOUN
+εἰ		10	CONJ
+ἐπεἰ῎ἐειδἠ	if	10	CONJ
+ὄτε	when, since, after	10	CONJ
+ὄτι	when	10	CONJ
+ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα	kill	11	VERB
+βάλλω, βαλῶ, ἔβαλον	throw	11	VERB
+βοηθέω, βοηθήσω, ἐβοήθησα	help	11	VERB
+βουλέυω, βουλεύσω, ἐβούλευσα	plan	11	VERB
+διαφθείρω, διαφθερῶ, διέφθειρα	destroy, corrupt	11	VERB
+εἰσβάλλω, εἰσβαλῶ, εἰσέβαλον	throw into, invade	11	VERB
+μένω, μενῶ, ἔμεινα	remain, stay; wait for	11	VERB
+νικάω, νικήσω, ἐνίκησα	conquer	11	VERB
+πεπιβάλλω, πεπιβαλῶ, πεπέβαλον	throw around, surround	11	VERB
+συμβουλέω, συμβουλεύσω, συνεβούλευσα	advise	11	VERB
+ἐπί	on, upon	11	PREP
+ἐπί	on, at, near	11	PREP
+ἐπί	toward, against; upon, on to, up to	11	PREP
+ἔτος, ἔτους, τό	year	11	NOUN
+Σωκράτης, Σωκράτους, ὁ	Socrates	11	NOUN
+τεῖχος, τείχους, τό	wall	11	NOUN
+χρῆμα, χρήματος, τό	thing, matter; (pl.) goods, money	11	NOUN
+ἀληθής, ἀληθής, ἀληθές	TRUE	11	ADJ
+ἄξιος, ἀξία, ἄξιον	worthy	11	ADJ
+ἄξιος, ἀξία, ἄξιον	worthy	11	ADJ
+ἀσφαλής, ἀσφαλής, ἀσφαλές	safe	11	ADJ
+ἀσφαλής, ἀσφαλής, ἀσφαλές	safe	11	ADJ
+εὐδαίμων, εὐδαίμων, εὐδαίμον	blessed, happy	11	ADJ
+ψευδής, ψευδής, ψευδές	FALSE	11	ADJ
+βοὐλομαι, βουλήσομαι, ἐβουλήθην	want	12	VERB
+γίγνομαι, γενήσομαι, ἐγενόμην	become, be; happen	12	VERB
+ἐλπίζω, ἐλπίσω, ἤλπισα	hope	12	VERB
+ἔρχομαι, ἐλεύσομαι, ἦλθον	come; go	12	VERB
+ἡγέομαι, ἡγήσομαι, ἡγησάμην	believe; lead, be a leader of (+ gen.)	12	VERB
+μάχομαι, μαχήσομαι, ἐμαχησάμην	fight (against)	12	VERB
+νομίζω, νομιῶ, ἐνόμισα	think, believe in	12	VERB
+ὁμολογέω, ὁμολογήσω, ὡμολόγησα	agree; admit	12	VERB
+χἀριν ἔχω	be grateful, give thanks	12	VERB
+ἄστυ, ἄστεως, τό	town	12	NOUN
+βασίλεια, βασιλείας, ἡ	queen	12	NOUN
+βασιλεύς, βασιλέως, ὁ	king	12	NOUN
+δύναμις, δυνάμεως, ἡ	power, strength, ability	12	NOUN
+ἱππεύς, ἱππέως, ὁ	horseman, rider; charioteer; (pl.) calvary	12	NOUN
+μάχη, μάχης, ἡ	battle	12	NOUN
+πόλις, πόλεως, ἡ	city	12	NOUN
+στρατιά, στρατιᾶς, ἡ	army	12	NOUN
+φύσις, φύσεως, ἡ	nature; character, temperament; regular order of nature	12	NOUN
+χάρις, χάριτος, ἡ	grace, thanks	12	NOUN
+πολύς, πολλή, πολύ	much, many	12	ADJ
+ἀδικἐω, ἀδικήσω, ἡδίκξσα	do wrong; injure	13	VERB
+δοκέω, δόξα, ἔδοξα	think; seem, seem good/best	13	VERB
+εὐρίσκω, εὐρήσω, ηὖρον/εὖρον	find, discover	13	VERB
+ζξτέω, ζητήσω, ἐζἠτησα	seek, look for; investigate	13	VERB
+ἥδομαι, ἥδησομαι	enjoy, be glad, delight in (+ dat.)	13	VERB
+τυγχἀνω, τεύξ, ἔτυχον	happen to (+ part.); meet, happen upon (+ gen.)	13	VERB
+χαίρω, χαιρπησω, ἐχαἰρησα	enjoy, rejoice (at); be glad	13	VERB
+ἀνάγκη, ἀνάγκης, ἡ	necessity	13	NOUN
+νόμος, νόμου, ὁ	law, custom, tradition	13	NOUN
+σώμα, σώματος, τό	body	13	NOUN
+τέλος, τέλους, τό	end; aim	13	NOUN
+υἱός, υἱοῦ, ὁ	son	13	NOUN
+ψυχή, ψυχῆς, ἡ	soul	13	NOUN
+εὐθύς	immediately	13	ADV
+ποῦ	where	13	ADV
+ἄδικος, ἄδικον	unjust	13	ADJ
+ἀθάνατος, ἀθάνατον	immortal	13	ADJ
+σὠφρων, σὠφρον	prudent, sensible; self-controlled	13	ADJ
