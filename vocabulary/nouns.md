@@ -92,7 +92,7 @@
 - [βασίλεια, βασιλείας, ἡ](https://en.wiktionary.org/wiki/βασίλεια#Declension): queen
 - [δὐωαμις, δυνάμεως, ἡ](https://en.wiktionary.org/wiki/δὐωαμις#Declension): power, strength, ability
 - [ἱππεύς, ἱππέως, ὁ](https://en.wiktionary.org/wiki/ἱππεύς#Declension): horseman, rider; charioteer; (pl.) calvary
-- [μἀχη, μάχης, ἡ](https://en.wiktionary.org/wiki/μἀχη#Declension): battle
+- [μάχη, μάχης, ἡ](https://en.wiktionary.org/wiki/μάχη#Declension): battle
 - [πόλις, πόλεως, ἡ](https://en.wiktionary.org/wiki/πόλις#Declension): city
 - [στρατιά, στρατιᾶς, ἡ](https://en.wiktionary.org/wiki/στρατιά#Declension): army
 - [φύσις, φύσεως, ἡ](https://en.wiktionary.org/wiki/φύσις#Declension): nature; character, temperament; regular order of nature
