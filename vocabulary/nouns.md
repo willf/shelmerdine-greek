@@ -78,7 +78,7 @@
 - [εἰρήνη, εἰρήνης, ἡ](https://en.wiktionary.org/wiki/εἰρήνη#Declension): peace
 - [ἐλπίς, ἐλπίδος, ἡ](https://en.wiktionary.org/wiki/ἐλπίς#Declension): hope
 - [Ξενοφῶν, Ξενοφῶντος, ὁ](https://en.wiktionary.org/wiki/Ξενοφῶν#Declension): Xenophon
-- [σὺμμαχος, συμμάχου, ὁ/ἡ](https://en.wiktionary.org/wiki/σὺμμαχος#Declension): ally
+- [σύμμαχος, συμμάχου, ὁ/ἡ](https://en.wiktionary.org/wiki/σύμμαχος#Declension): ally
 
 ## Chapter 11
 - [ἔτος, ἔτους, τό](https://en.wiktionary.org/wiki/ἔτος#Declension): year
