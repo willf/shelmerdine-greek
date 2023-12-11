@@ -90,7 +90,7 @@
 - [ἄστυ, ἄστεως, τό](https://en.wiktionary.org/wiki/ἄστυ#Declension): town
 - [βασιλεύς, βασιλέως, ὁ](https://en.wiktionary.org/wiki/βασιλεύς#Declension): king
 - [βασίλεια, βασιλείας, ἡ](https://en.wiktionary.org/wiki/βασίλεια#Declension): queen
-- [δὐωαμις, δυνάμεως, ἡ](https://en.wiktionary.org/wiki/δὐωαμις#Declension): power, strength, ability
+- [δύωαμις, δυνάμεως, ἡ](https://en.wiktionary.org/wiki/δύωαμις#Declension): power, strength, ability
 - [ἱππεύς, ἱππέως, ὁ](https://en.wiktionary.org/wiki/ἱππεύς#Declension): horseman, rider; charioteer; (pl.) calvary
 - [μάχη, μάχης, ἡ](https://en.wiktionary.org/wiki/μάχη#Declension): battle
 - [πόλις, πόλεως, ἡ](https://en.wiktionary.org/wiki/πόλις#Declension): city
