@@ -55,7 +55,7 @@
 ## Chapter 8
 - [ἀρχή, ἀρχῆς, ἡ](https://en.wiktionary.org/wiki/ἀρχή#Declension): rule; empire; province; beginning
 - [ἄρχων, ἄρχοντος, ὁ](https://en.wiktionary.org/wiki/ἄρχων#Declension): archon, ruler, leader
-- [Ἐλλάς, Ἑλλάδος, ἡ](https://en.wiktionary.org/wiki/Ἐλλάς#Declension): Greece
+- [Ἑλλάς, Ἑλλάδος, ἡ](https://en.wiktionary.org/wiki/Ἑλλάς#Declension): Greece
 - [κάμηλος, καμήλου, ὁ](https://en.wiktionary.org/wiki/κάμηλος#Declension): camel
 - [ποιητής, ποιητοῦ, ὁ](https://en.wiktionary.org/wiki/ποιητής#Declension): poet
 
