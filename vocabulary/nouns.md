@@ -89,7 +89,7 @@
 ## Chapter 12
 - [ἄστυ, ἄστεως, τό](https://en.wiktionary.org/wiki/ἄστυ#Declension): town
 - [βασιλεύς, βασιλέως, ὁ](https://en.wiktionary.org/wiki/βασιλεύς#Declension): king
-- [βασἰλεια, βασιλείας, ἡ](https://en.wiktionary.org/wiki/βασἰλεια#Declension): queen
+- [βασίλεια, βασιλείας, ἡ](https://en.wiktionary.org/wiki/βασίλεια#Declension): queen
 - [δὐωαμις, δυνάμεως, ἡ](https://en.wiktionary.org/wiki/δὐωαμις#Declension): power, strength, ability
 - [ἱππεύς, ἱππέως, ὁ](https://en.wiktionary.org/wiki/ἱππεύς#Declension): horseman, rider; charioteer; (pl.) calvary
 - [μἀχη, μάχης, ἡ](https://en.wiktionary.org/wiki/μἀχη#Declension): battle
@@ -100,7 +100,7 @@
 
 ## Chapter 13
 - [ἀνάγκη, ἀνάγκης, ἡ](https://en.wiktionary.org/wiki/ἀνάγκη#Declension): necessity
-- [νὀμος, νόμου, ὁ](https://en.wiktionary.org/wiki/νὀμος#Declension): law, custom, tradition
+- [νόμος, νόμου, ὁ](https://en.wiktionary.org/wiki/νόμος#Declension): law, custom, tradition
 - [σώμα, σώματος, τό](https://en.wiktionary.org/wiki/σώμα#Declension): body
 - [τέλος, τέλους, τό](https://en.wiktionary.org/wiki/τέλος#Declension): end; aim
 - [υἱός, υἱοῦ, ὁ](https://en.wiktionary.org/wiki/υἱός#Declension): son
