@@ -108,8 +108,8 @@
 ## Chapter 6
 
 ### Pronoun
-- [τί](https://en.wiktionary.org/wiki/τί): what?
-- [τίς](https://en.wiktionary.org/wiki/τίς): who?
+- [τί](https://en.wiktionary.org/wiki/τί#Pronoun): what?
+- [τίς](https://en.wiktionary.org/wiki/τίς#Pronoun): who?
 
 ### Noun
 - [ἀδελφός, ἀδελφοῦ, ὁ](https://en.wiktionary.org/wiki/ἀδελφός#Declension): brother
@@ -196,19 +196,19 @@
 ## Chapter 9
 
 ### Pronoun
-- [αὐτή](https://en.wiktionary.org/wiki/αὐτή): she, her
-- [αὐτό](https://en.wiktionary.org/wiki/αὐτό): it
-- [αὐτός](https://en.wiktionary.org/wiki/αὐτός): he, him
-- [ἐγώ](https://en.wiktionary.org/wiki/ἐγώ): I, me
-- [ἡμεῖς](https://en.wiktionary.org/wiki/ἡμεῖς): we, us
-- [μηδείς](https://en.wiktionary.org/wiki/μηδείς): no one (in negative clauses)
-- [μηδεμία](https://en.wiktionary.org/wiki/μηδεμία): not any, none (in negative clauses)
-- [μηδέν](https://en.wiktionary.org/wiki/μηδέν): nothing (in negative clauses)
-- [οὐδείς](https://en.wiktionary.org/wiki/οὐδείς): no one, nobody
-- [οὐδεμία](https://en.wiktionary.org/wiki/οὐδεμία): not any, none
-- [οὐδέν](https://en.wiktionary.org/wiki/οὐδέν): nothing
-- [σύ](https://en.wiktionary.org/wiki/σύ): you (singular)
-- [ὑμεῖς](https://en.wiktionary.org/wiki/ὑμεῖς): you (plural)
+- [αὐτή](https://en.wiktionary.org/wiki/αὐτή#Pronoun): she, her
+- [αὐτό](https://en.wiktionary.org/wiki/αὐτό#Pronoun): it
+- [αὐτός](https://en.wiktionary.org/wiki/αὐτός#Pronoun): he, him
+- [ἐγώ](https://en.wiktionary.org/wiki/ἐγώ#Pronoun): I, me
+- [ἡμεῖς](https://en.wiktionary.org/wiki/ἡμεῖς#Pronoun): we, us
+- [μηδείς](https://en.wiktionary.org/wiki/μηδείς#Pronoun): no one (in negative clauses)
+- [μηδεμία](https://en.wiktionary.org/wiki/μηδεμία#Pronoun): not any, none (in negative clauses)
+- [μηδέν](https://en.wiktionary.org/wiki/μηδέν#Pronoun): nothing (in negative clauses)
+- [οὐδείς](https://en.wiktionary.org/wiki/οὐδείς#Pronoun): no one, nobody
+- [οὐδεμία](https://en.wiktionary.org/wiki/οὐδεμία#Pronoun): not any, none
+- [οὐδέν](https://en.wiktionary.org/wiki/οὐδέν#Pronoun): nothing
+- [σύ](https://en.wiktionary.org/wiki/σύ#Pronoun): you (singular)
+- [ὑμεῖς](https://en.wiktionary.org/wiki/ὑμεῖς#Pronoun): you (plural)
 
 ### Noun
 - [ἀνήρ, ἀνδρός, ὁ](https://en.wiktionary.org/wiki/ἀνήρ#Declension): man, husband
