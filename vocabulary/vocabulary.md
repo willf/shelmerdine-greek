@@ -141,7 +141,7 @@
 ## Chapter 7
 
 ### Adverb
-- [σὖν](https://en.wiktionary.org/wiki/σὖν#Adverb) : so, therefor, in fact
+- [οὖν](https://en.wiktionary.org/wiki/οὖν#Adverb) : so, therefore, in fact
 - [τότε](https://en.wiktionary.org/wiki/τότε#Adverb) : then, at that time
 
 ### Noun
