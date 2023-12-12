@@ -54,11 +54,7 @@ form	translation	chapter	POS
 ἀεί	always	4	ADV
 καί	also, too, even	4	ADV
 νῦν	now	4	ADV
-ου	not	4	ADV
-οὐ	not	4	ADV
-οὔ	not	4	ADV
-οὐκ	not	4	ADV
-οὐχ	not	4	ADV
+οὐ, οὐκ, οὐχ, οὔ	not	4	ADV
 βασιλεύω, βασιλεύσω, ἐβασίλευσα	reign, rule	5	VERB
 λέγω, ἐρῶ, εἶπον	say, speak	5	VERB
 λείπω, λείψω, ἔλιπον	leave, depart	5	VERB

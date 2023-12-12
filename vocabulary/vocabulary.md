@@ -74,11 +74,7 @@
 - [ἀεί](https://en.wiktionary.org/wiki/ἀεί#Adverb): always
 - [καί](https://en.wiktionary.org/wiki/καί#Adverb): also, too, even
 - [νῦν](https://en.wiktionary.org/wiki/νῦν#Adverb): now
-- [ου](https://en.wiktionary.org/wiki/ου#Adverb): not
-- [οὐ](https://en.wiktionary.org/wiki/οὐ#Adverb): not
-- [οὔ](https://en.wiktionary.org/wiki/οὔ#Adverb): not
-- [οὐκ](https://en.wiktionary.org/wiki/οὐκ#Adverb): not
-- [οὐχ](https://en.wiktionary.org/wiki/οὐχ#Adverb): not
+- [οὐ, οὐκ, οὐχ, οὔ](https://en.wiktionary.org/wiki/οὐ#Adverb): not
 
 ## Chapter 5
 
