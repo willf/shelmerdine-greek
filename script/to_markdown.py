@@ -43,7 +43,7 @@ current_pos = None
 if len(sys.argv) >= 2:
     title = sys.argv[1]
 else:
-    title = "Introduction to Greek (Shelmerdine & Shelmerdine) Vocubulary"
+    title = "Introduction to Greek (Shelmerdine & Shelmerdine) Vocαbulary"
 
 print("# " + title)
 

@@ -1,4 +1,4 @@
-# Introduction to Greek (Shelmerdine & Shelmerdine) Vocubulary
+# Introduction to Greek (Shelmerdine & Shelmerdine) Vocαbulary
 
 ## Chapter 2
 
