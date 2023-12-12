@@ -79,4 +79,4 @@ for line in sys.stdin:
     if pos != current_pos:
         current_pos = pos
         print("\n### " + pos_dict[pos])
-    print("- " + part0_link + ": " + translation)
+    print("- " + part0_link + " : " + translation)
