@@ -333,7 +333,7 @@
 ## Chapter 13
 
 ### Verbs
-- [ἀδικἐω, ἀδικήσω, ἡδίκξσα](https://en.wiktionary.org/wiki/ἀδικἐω#Inflection) : do wrong; injure
+- [ἀδικέω, ἀδικήσω, ἡδίκξσα](https://en.wiktionary.org/wiki/ἀδικέω#Inflection) : do wrong; injure
 - [δοκέω, δόξα, ἔδοξα](https://en.wiktionary.org/wiki/δοκέω#Inflection) : think; seem, seem good/best
 - [εὐρίσκω, εὐρήσω, ηὖρον/εὖρον](https://en.wiktionary.org/wiki/εὐρίσκω#Inflection) : find, discover
 - [ζξτέω, ζητήσω, ἐζἠτησα](https://en.wiktionary.org/wiki/ζξτέω#Inflection) : seek, look for; investigate
