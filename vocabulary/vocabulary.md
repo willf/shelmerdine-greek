@@ -231,7 +231,8 @@
 - [ἄλλος, ἄλλη, ἄλλο](https://en.wiktionary.org/wiki/ἄλλος#Declension) : other, another
 
 ### Adverbs
-- [οὔποτε/μήποτε](https://en.wiktionary.org/wiki/οὔποτε/μήποτε#Adverb) : never
+- [οὔποτε](https://en.wiktionary.org/wiki/οὔποτε#Adverb) : never
+- [μήποτε](https://en.wiktionary.org/wiki/μήποτε#Adverb) : never
 
 ### Conjunctions
 - [μηδέ](https://en.wiktionary.org/wiki/μηδέ#Conjunction) : and not, but not; nor; not even
