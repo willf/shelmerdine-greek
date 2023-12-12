@@ -344,7 +344,7 @@
 ### Nouns
 - [ἀνάγκη, ἀνάγκης, ἡ](https://en.wiktionary.org/wiki/ἀνάγκη#Declension) : necessity
 - [νόμος, νόμου, ὁ](https://en.wiktionary.org/wiki/νόμος#Declension) : law, custom, tradition
-- [σώμα, σώματος, τό](https://en.wiktionary.org/wiki/σώμα#Declension) : body
+- [σῶμα, σώματος, τό](https://en.wiktionary.org/wiki/σῶμα#Declension) : body
 - [τέλος, τέλους, τό](https://en.wiktionary.org/wiki/τέλος#Declension) : end; aim
 - [υἱός, υἱοῦ, ὁ](https://en.wiktionary.org/wiki/υἱός#Declension) : son
 - [ψυχή, ψυχῆς, ἡ](https://en.wiktionary.org/wiki/ψυχή#Declension) : soul
