@@ -72,9 +72,10 @@
 
 ### Adverb
 - [ἀεί](https://en.wiktionary.org/wiki/ἀεί#Adverb): always
-- [καί](https://en.wiktionary.org/wiki/καί#Adverb): also, too, even
 - [νῦν](https://en.wiktionary.org/wiki/νῦν#Adverb): now
-- [οὐ, οὐκ, οὐχ, οὔ](https://en.wiktionary.org/wiki/οὐ#Adverb): not
+
+### Particle
+- [οὐ, οὐκ, οὐχ, οὔ](https://en.wiktionary.org/wiki/οὐ#Particle): not
 
 ## Chapter 5
 
@@ -246,7 +247,7 @@
 - [κατά](https://en.wiktionary.org/wiki/κατά#Preposition): down from, down upon
 
 ### Particle
-- [ἄν](https://en.wiktionary.org/wiki/ἄν): marks irrealis
+- [ἄν](https://en.wiktionary.org/wiki/ἄν#Particle): marks irrealis
 
 ### Noun
 - [γῆ, γῆς, ἡ](https://en.wiktionary.org/wiki/γῆ#Declension): earth

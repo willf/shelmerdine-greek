@@ -52,9 +52,8 @@ form	translation	chapter	POS
 χρῆμα, χρήματος, τό	thing	4	NOUN
 χώρα, χώρας, ἡ	land, country	4	NOUN
 ἀεί	always	4	ADV
-καί	also, too, even	4	ADV
 νῦν	now	4	ADV
-οὐ, οὐκ, οὐχ, οὔ	not	4	ADV
+οὐ, οὐκ, οὐχ, οὔ	not	4	PART
 βασιλεύω, βασιλεύσω, ἐβασίλευσα	reign, rule	5	VERB
 λέγω, ἐρῶ, εἶπον	say, speak	5	VERB
 λείπω, λείψω, ἔλιπον	leave, depart	5	VERB

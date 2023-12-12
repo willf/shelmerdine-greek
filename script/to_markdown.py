@@ -19,7 +19,7 @@ href_dict = {
     "CONJ": "Conjunction",
     "INTER": "Interjection",
     "NOUN": "Declension",
-    "PART": None,
+    "PART": "Particle",
     "PREP": "Preposition",
     "PRO": "Pronoun",
     "VERB": "Inflection",
