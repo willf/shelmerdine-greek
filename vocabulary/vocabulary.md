@@ -2,7 +2,7 @@
 
 ## Chapter 2
 
-### Verb
+### Verbs
 - [βλάπτω, βλάψω, ἔβλαψα](https://en.wiktionary.org/wiki/βλάπτω#Inflection) : harm, injure, damage
 - [γράφω, γράψω, ἔγραψα](https://en.wiktionary.org/wiki/γράφω#Inflection) : write
 - [διδάσκω, διδάξω, ἐδίδαξα](https://en.wiktionary.org/wiki/διδάσκω#Inflection) : teach
@@ -17,18 +17,7 @@
 
 ## Chapter 3
 
-### Conjunction
-- [ἀλλά](https://en.wiktionary.org/wiki/ἀλλά#Conjunction) : but, however, nevertheless
-- [δέ](https://en.wiktionary.org/wiki/δέ#Conjunction) : and, but
-- [ἤ](https://en.wiktionary.org/wiki/ἤ#Conjunction) : or
-- [ἤ ... ἤ](https://en.wiktionary.org/wiki/ἤ#Conjunction) : either ... or
-- [καί](https://en.wiktionary.org/wiki/καί#Conjunction) : and
-- [καί ... καί](https://en.wiktionary.org/wiki/καί#Conjunction) : both ... and
-
-### Interjection
-- [ὦ](https://en.wiktionary.org/wiki/ὦ#Interjection) : O!
-
-### Noun
+### Nouns
 - [ἀγορά, ἀγορᾶς, ἡ](https://en.wiktionary.org/wiki/ἀγορά#Declension) : marketplace
 - [ἄνθρωπος, ἀνθρώπου, ὁ](https://en.wiktionary.org/wiki/ἄνθρωπος#Declension) : man, human
 - [δῶρον, δώρου, τό](https://en.wiktionary.org/wiki/δῶρον#Declension) : gift
@@ -44,13 +33,20 @@
 - [τιμή, τιμῆς, ἡ](https://en.wiktionary.org/wiki/τιμή#Declension) : honor
 - [φίλος, φίλου, ὁ](https://en.wiktionary.org/wiki/φίλος#Declension) : friend
 
+### Conjunctions
+- [ἀλλά](https://en.wiktionary.org/wiki/ἀλλά#Conjunction) : but, however, nevertheless
+- [δέ](https://en.wiktionary.org/wiki/δέ#Conjunction) : and, but
+- [ἤ](https://en.wiktionary.org/wiki/ἤ#Conjunction) : or
+- [ἤ ... ἤ](https://en.wiktionary.org/wiki/ἤ#Conjunction) : either ... or
+- [καί](https://en.wiktionary.org/wiki/καί#Conjunction) : and
+- [καί ... καί](https://en.wiktionary.org/wiki/καί#Conjunction) : both ... and
+
+### Interjections
+- [ὦ](https://en.wiktionary.org/wiki/ὦ#Interjection) : O!
+
 ## Chapter 4
 
-### Adverb
-- [ἀεί](https://en.wiktionary.org/wiki/ἀεί#Adverb) : always
-- [νῦν](https://en.wiktionary.org/wiki/νῦν#Adverb) : now
-
-### Noun
+### Nouns
 - [Ἀθῆναι, Ἀθηνῶν, αἱ](https://en.wiktionary.org/wiki/Ἀθῆναι#Declension) : Athens
 - [ἔτος, ἔτους, τό](https://en.wiktionary.org/wiki/ἔτος#Declension) : year
 - [λόγος, λόγου, ὁ](https://en.wiktionary.org/wiki/λόγος#Declension) : word
@@ -65,10 +61,11 @@
 - [χρῆμα, χρήματος, τό](https://en.wiktionary.org/wiki/χρῆμα#Declension) : thing
 - [χώρα, χώρας, ἡ](https://en.wiktionary.org/wiki/χώρα#Declension) : land, country
 
-### Particle
-- [οὐ, οὐκ, οὐχ, οὔ](https://en.wiktionary.org/wiki/οὐ#Particle) : not
+### Adverbs
+- [ἀεί](https://en.wiktionary.org/wiki/ἀεί#Adverb) : always
+- [νῦν](https://en.wiktionary.org/wiki/νῦν#Adverb) : now
 
-### Preposition
+### Prepositions
 - [ἀπό (+ gen.)](https://en.wiktionary.org/wiki/ἀπό#Preposition) : from, away from, of
 - [εἰς (+ acc.)](https://en.wiktionary.org/wiki/εἰς#Preposition) : into, onto
 - [ἐκ (+ gen.)](https://en.wiktionary.org/wiki/ἐκ#Preposition) : out of, from
@@ -77,28 +74,12 @@
 - [πρός (+ dat.)](https://en.wiktionary.org/wiki/πρός#Preposition) : near, at; in addition to
 - [πρός (+ gen.)](https://en.wiktionary.org/wiki/πρός#Preposition) : from; on the side of; in favor of
 
+### Particles
+- [οὐ, οὐκ, οὐχ, οὔ](https://en.wiktionary.org/wiki/οὐ#Particle) : not
+
 ## Chapter 5
 
-### Adverb
-- [εὔ](https://en.wiktionary.org/wiki/εὔ#Adverb) : well
-- [κακῶς](https://en.wiktionary.org/wiki/κακῶς#Adverb) : badly
-
-### Noun
-- [βίος, βίου, ὁ](https://en.wiktionary.org/wiki/βίος#Declension) : life
-- [ἡμέρα, ἡμέρας, ἡ](https://en.wiktionary.org/wiki/ἡμέρα#Declension) : day
-- [θάνατος, θανάτου, ὁ](https://en.wiktionary.org/wiki/θάνατος#Declension) : death
-- [πόλεμος, πολέμου, ὁ](https://en.wiktionary.org/wiki/πόλεμος#Declension) : war
-- [στρατηγός, στρατηγοῦ, ὁ](https://en.wiktionary.org/wiki/στρατηγός#Declension) : general
-
-### Preposition
-- [διἀ (+ acc.)](https://en.wiktionary.org/wiki/διἀ#Preposition) : because of, on account of
-- [διἀ (+ gen.)](https://en.wiktionary.org/wiki/διἀ#Preposition) : through
-- [μετά (+ acc.)](https://en.wiktionary.org/wiki/μετά#Preposition) : after
-- [μετά (+ gen.)](https://en.wiktionary.org/wiki/μετά#Preposition) : with
-- [περί (+ acc.)](https://en.wiktionary.org/wiki/περί#Preposition) : around
-- [περί (+ gen.)](https://en.wiktionary.org/wiki/περί#Preposition) : about, concerning
-
-### Verb
+### Verbs
 - [βασιλεύω, βασιλεύσω, ἐβασίλευσα](https://en.wiktionary.org/wiki/βασιλεύω#Inflection) : reign, rule
 - [λέγω, ἐρῶ, εἶπον](https://en.wiktionary.org/wiki/λέγω#Inflection) : say, speak
 - [λείπω, λείψω, ἔλιπον](https://en.wiktionary.org/wiki/λείπω#Inflection) : leave, depart
@@ -106,9 +87,37 @@
 - [φεύγω, φεύξομαι, ἔφυγον](https://en.wiktionary.org/wiki/φεύγω#Inflection) : flee, escape
 - [φυλάττω, φυλάξω, ἐφύλαξα](https://en.wiktionary.org/wiki/φυλάττω#Inflection) : guard, protect
 
+### Nouns
+- [βίος, βίου, ὁ](https://en.wiktionary.org/wiki/βίος#Declension) : life
+- [ἡμέρα, ἡμέρας, ἡ](https://en.wiktionary.org/wiki/ἡμέρα#Declension) : day
+- [θάνατος, θανάτου, ὁ](https://en.wiktionary.org/wiki/θάνατος#Declension) : death
+- [πόλεμος, πολέμου, ὁ](https://en.wiktionary.org/wiki/πόλεμος#Declension) : war
+- [στρατηγός, στρατηγοῦ, ὁ](https://en.wiktionary.org/wiki/στρατηγός#Declension) : general
+
+### Adverbs
+- [εὔ](https://en.wiktionary.org/wiki/εὔ#Adverb) : well
+- [κακῶς](https://en.wiktionary.org/wiki/κακῶς#Adverb) : badly
+
+### Prepositions
+- [διἀ (+ acc.)](https://en.wiktionary.org/wiki/διἀ#Preposition) : because of, on account of
+- [διἀ (+ gen.)](https://en.wiktionary.org/wiki/διἀ#Preposition) : through
+- [μετά (+ acc.)](https://en.wiktionary.org/wiki/μετά#Preposition) : after
+- [μετά (+ gen.)](https://en.wiktionary.org/wiki/μετά#Preposition) : with
+- [περί (+ acc.)](https://en.wiktionary.org/wiki/περί#Preposition) : around
+- [περί (+ gen.)](https://en.wiktionary.org/wiki/περί#Preposition) : about, concerning
+
 ## Chapter 6
 
-### Adjective
+### Nouns
+- [ἀδελφός, ἀδελφοῦ, ὁ](https://en.wiktionary.org/wiki/ἀδελφός#Declension) : brother
+- [βάρβαρος, βαρβάρου, ὁ/ἡ](https://en.wiktionary.org/wiki/βάρβαρος#Declension) : foreigner
+- [ὅπλον, ὅπλου, τό](https://en.wiktionary.org/wiki/ὅπλον#Declension) : weapon
+
+### Pronouns
+- [τί](https://en.wiktionary.org/wiki/τί#Pronoun) : what?
+- [τίς](https://en.wiktionary.org/wiki/τίς#Pronoun) : who?
+
+### Adjectives
 - [ἀγαθός, ἀγαθή, ἀγαθόν](https://en.wiktionary.org/wiki/ἀγαθός#Declension) : good
 - [Ἀθηναῖος, Ἀθηναίa, Ἀθηναίου](https://en.wiktionary.org/wiki/Ἀθηναῖος#Declension) : Athenian
 - [δίκαιος, δικαία, δίκαιον](https://en.wiktionary.org/wiki/δίκαιος#Declension) : just, righteous
@@ -119,7 +128,7 @@
 - [σοφός, σοφή, σοφόν](https://en.wiktionary.org/wiki/σοφός#Declension) : wise
 - [χακεπός, χαλεπή, χαλεπόν](https://en.wiktionary.org/wiki/χακεπός#Declension) : difficult; dangerous; harsh
 
-### Conjunction
+### Conjunctions
 - [γἀρ](https://en.wiktionary.org/wiki/γἀρ#Conjunction) : for, because
 - [καί γάρ](https://en.wiktionary.org/wiki/καί#Conjunction) : for in fact
 - [μέν](https://en.wiktionary.org/wiki/μέν#Conjunction) : (contrast)
@@ -129,22 +138,17 @@
 - [τε ... καί](https://en.wiktionary.org/wiki/τε#Conjunction) : both ... and
 - [τε ... τε](https://en.wiktionary.org/wiki/τε#Conjunction) : both ... and
 
-### Noun
-- [ἀδελφός, ἀδελφοῦ, ὁ](https://en.wiktionary.org/wiki/ἀδελφός#Declension) : brother
-- [βάρβαρος, βαρβάρου, ὁ/ἡ](https://en.wiktionary.org/wiki/βάρβαρος#Declension) : foreigner
-- [ὅπλον, ὅπλου, τό](https://en.wiktionary.org/wiki/ὅπλον#Declension) : weapon
-
-### Pronoun
-- [τί](https://en.wiktionary.org/wiki/τί#Pronoun) : what?
-- [τίς](https://en.wiktionary.org/wiki/τίς#Pronoun) : who?
-
 ## Chapter 7
 
-### Adverb
-- [οὖν](https://en.wiktionary.org/wiki/οὖν#Adverb) : so, therefore, in fact
-- [τότε](https://en.wiktionary.org/wiki/τότε#Adverb) : then, at that time
+### Verbs
+- ['ἔχω, ἔξω/σχήσω, ἔσχον (impf. εἶχον)](https://en.wiktionary.org/wiki/'ἔχω#Inflection) : have
+- [ἄγω, ἄξω, ἤγαγον](https://en.wiktionary.org/wiki/ἄγω#Inflection) : lead, bring
+- [εἰμί, ἔσθμαι (present encl. excep 2 sg imperf. ἦν)](https://en.wiktionary.org/wiki/εἰμί#Inflection) : be
+- [λαμβάνω, λήψομαι, ἔλαβον](https://en.wiktionary.org/wiki/λαμβάνω#Inflection) : take, seize, receive
+- [ὀνομάξω, ὀνομάσω, ὠνὀμασα](https://en.wiktionary.org/wiki/ὀνομάξω#Inflection) : name, call by name, call X and X (2 acc)
+- [φέρω, οἴσω, ὠωὀμασα](https://en.wiktionary.org/wiki/φέρω#Inflection) : carry, bear, bring
 
-### Noun
+### Nouns
 - [Ἕλλην, Ἕλληνος, ο](https://en.wiktionary.org/wiki/Ἕλλην#Declension) : Greek
 - [ἡγεμών, ἡγεμόνος, ο](https://en.wiktionary.org/wiki/ἡγεμών#Declension) : leader
 - [κῆρυξ, κήρυκος, ο](https://en.wiktionary.org/wiki/κῆρυξ#Declension) : herald
@@ -154,57 +158,43 @@
 - [ὕδωρ, ὕδατος, τὸ](https://en.wiktionary.org/wiki/ὕδωρ#Declension) : water
 - [φύλαξ, φύλακος, ο](https://en.wiktionary.org/wiki/φύλαξ#Declension) : guard
 
-### Preposition
-- [σὖν (+ dat.)](https://en.wiktionary.org/wiki/σὖν#Preposition) : with
+### Adverbs
+- [οὖν](https://en.wiktionary.org/wiki/οὖν#Adverb) : so, therefore, in fact
+- [τότε](https://en.wiktionary.org/wiki/τότε#Adverb) : then, at that time
 
-### Verb
-- ['ἔχω, ἔξω/σχήσω, ἔσχον (impf. εἶχον)](https://en.wiktionary.org/wiki/'ἔχω#Inflection) : have
-- [ἄγω, ἄξω, ἤγαγον](https://en.wiktionary.org/wiki/ἄγω#Inflection) : lead, bring
-- [εἰμί, ἔσθμαι (present enc. excep 2 sg imperf. ἦν)](https://en.wiktionary.org/wiki/εἰμί#Inflection) : be
-- [λαμβάνω, λήψομαι, ἔλαβον](https://en.wiktionary.org/wiki/λαμβάνω#Inflection) : take, seize, receive
-- [ὀνομάξω, ὀνομάσω, ὠνὀμασα](https://en.wiktionary.org/wiki/ὀνομάξω#Inflection) : name, call by name, call X and X (2 acc)
-- [φέρω, οἴσω, ὠωὀμασα](https://en.wiktionary.org/wiki/φέρω#Inflection) : carry, bear, bring
+### Prepositions
+- [σὖν (+ dat.)](https://en.wiktionary.org/wiki/σὖν#Preposition) : with
 
 ## Chapter 8
 
-### Adjective
-- [δέκατος, δέκατη, δέκατον](https://en.wiktionary.org/wiki/δέκατος#Declension) : tenth
-- [μέγας, μεγάλη, μέγα](https://en.wiktionary.org/wiki/μέγας#Declension) : great, large
-- [πᾶς, πᾶσα, πᾶν](https://en.wiktionary.org/wiki/πᾶς#Declension) : every, all
-- [τάλας, τάλαινα, τάλαν](https://en.wiktionary.org/wiki/τάλας#Declension) : wretched, miserable, suffering
-
-### Adverb
-- [μή](https://en.wiktionary.org/wiki/μή#Adverb) : not
-- [πάλιν](https://en.wiktionary.org/wiki/πάλιν#Adverb) : back; again
-- [τοτἐ](https://en.wiktionary.org/wiki/τοτἐ#Adverb) : at some time, ever, in the world
-
-### Noun
-- [ἀρχή, ἀρχῆς, ἡ](https://en.wiktionary.org/wiki/ἀρχή#Declension) : rule; empire; province; beginning
-- [ἄρχων, ἄρχοντος, ὁ](https://en.wiktionary.org/wiki/ἄρχων#Declension) : archon, ruler, leader
-- [Ἑλλάς, Ἑλλάδος, ἡ](https://en.wiktionary.org/wiki/Ἑλλάς#Declension) : Greece
-- [κάμηλος, καμήλου, ὁ](https://en.wiktionary.org/wiki/κάμηλος#Declension) : camel
-- [ποιητής, ποιητοῦ, ὁ](https://en.wiktionary.org/wiki/ποιητής#Declension) : poet
-
-### Verb
+### Verbs
 - [ἄρχω, ἀρξομαι, ἦρξα](https://en.wiktionary.org/wiki/ἄρχω#Inflection) : begin, command, rule
 - [ἐθέλω, ἐθελήσομαι, ἠθέλησα](https://en.wiktionary.org/wiki/ἐθέλω#Inflection) : will, wish
 - [κελεύω, κελεύσω, ἐκέλευσα](https://en.wiktionary.org/wiki/κελεύω#Inflection) : command, order
 - [μέλλω, μελλήσω, ἐμέλλησα](https://en.wiktionary.org/wiki/μέλλω#Inflection) : intend, be about to
 - [οἷός τέ εἰμι](https://en.wiktionary.org/wiki/οἷός#Inflection) : am such as
 
+### Nouns
+- [ἀρχή, ἀρχῆς, ἡ](https://en.wiktionary.org/wiki/ἀρχή#Declension) : rule; empire; province; beginning
+- [ἄρχων, ἄρχοντος, ὁ](https://en.wiktionary.org/wiki/ἄρχων#Declension) : archon, ruler, leader
+- [Ἑλλάς, Ἑλλάδος, ἡ](https://en.wiktionary.org/wiki/Ἑλλάς#Declension) : Greece
+- [κάμηλος, καμήλου, ὁ](https://en.wiktionary.org/wiki/κάμηλος#Declension) : camel
+- [ποιητής, ποιητοῦ, ὁ](https://en.wiktionary.org/wiki/ποιητής#Declension) : poet
+
+### Adjectives
+- [δέκατος, δέκατη, δέκατον](https://en.wiktionary.org/wiki/δέκατος#Declension) : tenth
+- [μέγας, μεγάλη, μέγα](https://en.wiktionary.org/wiki/μέγας#Declension) : great, large
+- [πᾶς, πᾶσα, πᾶν](https://en.wiktionary.org/wiki/πᾶς#Declension) : every, all
+- [τάλας, τάλαινα, τάλαν](https://en.wiktionary.org/wiki/τάλας#Declension) : wretched, miserable, suffering
+
+### Adverbs
+- [μή](https://en.wiktionary.org/wiki/μή#Adverb) : not
+- [πάλιν](https://en.wiktionary.org/wiki/πάλιν#Adverb) : back; again
+- [τοτἐ](https://en.wiktionary.org/wiki/τοτἐ#Adverb) : at some time, ever, in the world
+
 ## Chapter 9
 
-### Adjective
-- [ἄλλος, ἄλλη, ἄλλο](https://en.wiktionary.org/wiki/ἄλλος#Declension) : other, another
-
-### Adverb
-- [οὔποτε/μήποτε](https://en.wiktionary.org/wiki/οὔποτε/μήποτε#Adverb) : never
-
-### Conjunction
-- [μηδέ](https://en.wiktionary.org/wiki/μηδέ#Conjunction) : and not, but not; nor; not even
-- [μήτε ... μήτε](https://en.wiktionary.org/wiki/μήτε#Conjunction) : neither ... nor
-
-### Noun
+### Nouns
 - [ἀνήρ, ἀνδρός, ὁ](https://en.wiktionary.org/wiki/ἀνήρ#Declension) : man, husband
 - [γυνή, γυναικός, ἡ](https://en.wiktionary.org/wiki/γυνή#Declension) : woman, wife
 - [δίκη, δίκης, ἡ](https://en.wiktionary.org/wiki/δίκη#Declension) : justice; trial, lawsuit; penalty
@@ -218,7 +208,7 @@
 - [χείρ, χειρός, ἡ](https://en.wiktionary.org/wiki/χείρ#Declension) : hand
 - [χρόνος, χρόνου, ὁ](https://en.wiktionary.org/wiki/χρόνος#Declension) : time
 
-### Pronoun
+### Pronouns
 - [αὐτή](https://en.wiktionary.org/wiki/αὐτή#Pronoun) : she, her
 - [αὐτό](https://en.wiktionary.org/wiki/αὐτό#Pronoun) : it
 - [αὐτός](https://en.wiktionary.org/wiki/αὐτός#Pronoun) : he, him
@@ -233,28 +223,19 @@
 - [σύ](https://en.wiktionary.org/wiki/σύ#Pronoun) : you (singular)
 - [ὑμεῖς](https://en.wiktionary.org/wiki/ὑμεῖς#Pronoun) : you (plural)
 
+### Adjectives
+- [ἄλλος, ἄλλη, ἄλλο](https://en.wiktionary.org/wiki/ἄλλος#Declension) : other, another
+
+### Adverbs
+- [οὔποτε/μήποτε](https://en.wiktionary.org/wiki/οὔποτε/μήποτε#Adverb) : never
+
+### Conjunctions
+- [μηδέ](https://en.wiktionary.org/wiki/μηδέ#Conjunction) : and not, but not; nor; not even
+- [μήτε ... μήτε](https://en.wiktionary.org/wiki/μήτε#Conjunction) : neither ... nor
+
 ## Chapter 10
 
-### Conjunction
-- [εἰ](https://en.wiktionary.org/wiki/εἰ#Conjunction) : 
-- [ἐπεἰ῎ἐειδἠ](https://en.wiktionary.org/wiki/ἐπεἰ῎ἐειδἠ#Conjunction) : if
-- [ὄτε](https://en.wiktionary.org/wiki/ὄτε#Conjunction) : when, since, after
-- [ὄτι](https://en.wiktionary.org/wiki/ὄτι#Conjunction) : when
-
-### Noun
-- [γῆ, γῆς, ἡ](https://en.wiktionary.org/wiki/γῆ#Declension) : earth
-- [εἰρήνη, εἰρήνης, ἡ](https://en.wiktionary.org/wiki/εἰρήνη#Declension) : peace
-- [ἐλπίς, ἐλπίδος, ἡ](https://en.wiktionary.org/wiki/ἐλπίς#Declension) : hope
-- [Ξενοφῶν, Ξενοφῶντος, ὁ](https://en.wiktionary.org/wiki/Ξενοφῶν#Declension) : Xenophon
-- [σύμμαχος, συμμάχου, ὁ/ἡ](https://en.wiktionary.org/wiki/σύμμαχος#Declension) : ally
-
-### Particle
-- [ἄν](https://en.wiktionary.org/wiki/ἄν#Particle) : marks irrealis
-
-### Preposition
-- [κατά](https://en.wiktionary.org/wiki/κατά#Preposition) : down from, down upon
-
-### Verb
+### Verbs
 - [ἀκούω, ἀκούσω, ἤκουσα](https://en.wiktionary.org/wiki/ἀκούω#Inflection) : listen
 - [ἀποθνήσκω, ἀποθανοῦμαι, ἀπέθανον](https://en.wiktionary.org/wiki/ἀποθνήσκω#Inflection) : die
 - [δράω, δράσω, ἔδρασα](https://en.wiktionary.org/wiki/δράω#Inflection) : do, act
@@ -264,29 +245,28 @@
 - [τιμάω, τιμήσω, ἐτίμησα](https://en.wiktionary.org/wiki/τιμάω#Inflection) : honor
 - [φιλέω, φιλήσω, ἐφίλησα](https://en.wiktionary.org/wiki/φιλέω#Inflection) : love
 
+### Nouns
+- [γῆ, γῆς, ἡ](https://en.wiktionary.org/wiki/γῆ#Declension) : earth
+- [εἰρήνη, εἰρήνης, ἡ](https://en.wiktionary.org/wiki/εἰρήνη#Declension) : peace
+- [ἐλπίς, ἐλπίδος, ἡ](https://en.wiktionary.org/wiki/ἐλπίς#Declension) : hope
+- [Ξενοφῶν, Ξενοφῶντος, ὁ](https://en.wiktionary.org/wiki/Ξενοφῶν#Declension) : Xenophon
+- [σύμμαχος, συμμάχου, ὁ/ἡ](https://en.wiktionary.org/wiki/σύμμαχος#Declension) : ally
+
+### Prepositions
+- [κατά](https://en.wiktionary.org/wiki/κατά#Preposition) : down from, down upon
+
+### Conjunctions
+- [εἰ](https://en.wiktionary.org/wiki/εἰ#Conjunction) : 
+- [ἐπεἰ῎ἐειδἠ](https://en.wiktionary.org/wiki/ἐπεἰ῎ἐειδἠ#Conjunction) : if
+- [ὄτε](https://en.wiktionary.org/wiki/ὄτε#Conjunction) : when, since, after
+- [ὄτι](https://en.wiktionary.org/wiki/ὄτι#Conjunction) : when
+
+### Particles
+- [ἄν](https://en.wiktionary.org/wiki/ἄν#Particle) : marks irrealis
+
 ## Chapter 11
 
-### Adjective
-- [ἀληθής, ἀληθής, ἀληθές](https://en.wiktionary.org/wiki/ἀληθής#Declension) : TRUE
-- [ἄξιος, ἀξία, ἄξιον](https://en.wiktionary.org/wiki/ἄξιος#Declension) : worthy
-- [ἄξιος, ἀξία, ἄξιον](https://en.wiktionary.org/wiki/ἄξιος#Declension) : worthy
-- [ἀσφαλής, ἀσφαλής, ἀσφαλές](https://en.wiktionary.org/wiki/ἀσφαλής#Declension) : safe
-- [ἀσφαλής, ἀσφαλής, ἀσφαλές](https://en.wiktionary.org/wiki/ἀσφαλής#Declension) : safe
-- [εὐδαίμων, εὐδαίμων, εὐδαίμον](https://en.wiktionary.org/wiki/εὐδαίμων#Declension) : blessed, happy
-- [ψευδής, ψευδής, ψευδές](https://en.wiktionary.org/wiki/ψευδής#Declension) : FALSE
-
-### Noun
-- [ἔτος, ἔτους, τό](https://en.wiktionary.org/wiki/ἔτος#Declension) : year
-- [Σωκράτης, Σωκράτους, ὁ](https://en.wiktionary.org/wiki/Σωκράτης#Declension) : Socrates
-- [τεῖχος, τείχους, τό](https://en.wiktionary.org/wiki/τεῖχος#Declension) : wall
-- [χρῆμα, χρήματος, τό](https://en.wiktionary.org/wiki/χρῆμα#Declension) : thing, matter; (pl.) goods, money
-
-### Preposition
-- [ἐπί](https://en.wiktionary.org/wiki/ἐπί#Preposition) : on, upon
-- [ἐπί](https://en.wiktionary.org/wiki/ἐπί#Preposition) : on, at, near
-- [ἐπί](https://en.wiktionary.org/wiki/ἐπί#Preposition) : toward, against; upon, on to, up to
-
-### Verb
+### Verbs
 - [ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα](https://en.wiktionary.org/wiki/ἀποκτείνω#Inflection) : kill
 - [βάλλω, βαλῶ, ἔβαλον](https://en.wiktionary.org/wiki/βάλλω#Inflection) : throw
 - [βοηθέω, βοηθήσω, ἐβοήθησα](https://en.wiktionary.org/wiki/βοηθέω#Inflection) : help
@@ -298,12 +278,40 @@
 - [πεπιβάλλω, πεπιβαλῶ, πεπέβαλον](https://en.wiktionary.org/wiki/πεπιβάλλω#Inflection) : throw around, surround
 - [συμβουλέω, συμβουλεύσω, συνεβούλευσα](https://en.wiktionary.org/wiki/συμβουλέω#Inflection) : advise
 
+### Nouns
+- [ἔτος, ἔτους, τό](https://en.wiktionary.org/wiki/ἔτος#Declension) : year
+- [Σωκράτης, Σωκράτους, ὁ](https://en.wiktionary.org/wiki/Σωκράτης#Declension) : Socrates
+- [τεῖχος, τείχους, τό](https://en.wiktionary.org/wiki/τεῖχος#Declension) : wall
+- [χρῆμα, χρήματος, τό](https://en.wiktionary.org/wiki/χρῆμα#Declension) : thing, matter; (pl.) goods, money
+
+### Adjectives
+- [ἀληθής, ἀληθής, ἀληθές](https://en.wiktionary.org/wiki/ἀληθής#Declension) : TRUE
+- [ἄξιος, ἀξία, ἄξιον](https://en.wiktionary.org/wiki/ἄξιος#Declension) : worthy
+- [ἄξιος, ἀξία, ἄξιον](https://en.wiktionary.org/wiki/ἄξιος#Declension) : worthy
+- [ἀσφαλής, ἀσφαλής, ἀσφαλές](https://en.wiktionary.org/wiki/ἀσφαλής#Declension) : safe
+- [ἀσφαλής, ἀσφαλής, ἀσφαλές](https://en.wiktionary.org/wiki/ἀσφαλής#Declension) : safe
+- [εὐδαίμων, εὐδαίμων, εὐδαίμον](https://en.wiktionary.org/wiki/εὐδαίμων#Declension) : blessed, happy
+- [ψευδής, ψευδής, ψευδές](https://en.wiktionary.org/wiki/ψευδής#Declension) : FALSE
+
+### Prepositions
+- [ἐπί](https://en.wiktionary.org/wiki/ἐπί#Preposition) : on, upon
+- [ἐπί](https://en.wiktionary.org/wiki/ἐπί#Preposition) : on, at, near
+- [ἐπί](https://en.wiktionary.org/wiki/ἐπί#Preposition) : toward, against; upon, on to, up to
+
 ## Chapter 12
 
-### Adjective
-- [πολύς, πολλή, πολύ](https://en.wiktionary.org/wiki/πολύς#Declension) : much, many
+### Verbs
+- [βοὐλομαι, βουλήσομαι, ἐβουλήθην](https://en.wiktionary.org/wiki/βοὐλομαι#Inflection) : want
+- [γίγνομαι, γενήσομαι, ἐγενόμην](https://en.wiktionary.org/wiki/γίγνομαι#Inflection) : become, be; happen
+- [ἐλπίζω, ἐλπίσω, ἤλπισα](https://en.wiktionary.org/wiki/ἐλπίζω#Inflection) : hope
+- [ἔρχομαι, ἐλεύσομαι, ἦλθον](https://en.wiktionary.org/wiki/ἔρχομαι#Inflection) : come; go
+- [ἡγέομαι, ἡγήσομαι, ἡγησάμην](https://en.wiktionary.org/wiki/ἡγέομαι#Inflection) : believe; lead, be a leader of (+ gen.)
+- [μάχομαι, μαχήσομαι, ἐμαχησάμην](https://en.wiktionary.org/wiki/μάχομαι#Inflection) : fight (against)
+- [νομίζω, νομιῶ, ἐνόμισα](https://en.wiktionary.org/wiki/νομίζω#Inflection) : think, believe in
+- [ὁμολογέω, ὁμολογήσω, ὡμολόγησα](https://en.wiktionary.org/wiki/ὁμολογέω#Inflection) : agree; admit
+- [χἀριν ἔχω](https://en.wiktionary.org/wiki/χἀριν#Inflection) : be grateful, give thanks
 
-### Noun
+### Nouns
 - [ἄστυ, ἄστεως, τό](https://en.wiktionary.org/wiki/ἄστυ#Declension) : town
 - [βασίλεια, βασιλείας, ἡ](https://en.wiktionary.org/wiki/βασίλεια#Declension) : queen
 - [βασιλεύς, βασιλέως, ὁ](https://en.wiktionary.org/wiki/βασιλεύς#Declension) : king
@@ -315,37 +323,12 @@
 - [φύσις, φύσεως, ἡ](https://en.wiktionary.org/wiki/φύσις#Declension) : nature; character, temperament; regular order of nature
 - [χάρις, χάριτος, ἡ](https://en.wiktionary.org/wiki/χάρις#Declension) : grace, thanks
 
-### Verb
-- [βοὐλομαι, βουλήσομαι, ἐβουλήθην](https://en.wiktionary.org/wiki/βοὐλομαι#Inflection) : want
-- [γίγνομαι, γενήσομαι, ἐγενόμην](https://en.wiktionary.org/wiki/γίγνομαι#Inflection) : become, be; happen
-- [ἐλπίζω, ἐλπίσω, ἤλπισα](https://en.wiktionary.org/wiki/ἐλπίζω#Inflection) : hope
-- [ἔρχομαι, ἐλεύσομαι, ἦλθον](https://en.wiktionary.org/wiki/ἔρχομαι#Inflection) : come; go
-- [ἡγέομαι, ἡγήσομαι, ἡγησάμην](https://en.wiktionary.org/wiki/ἡγέομαι#Inflection) : believe; lead, be a leader of (+ gen.)
-- [μάχομαι, μαχήσομαι, ἐμαχησάμην](https://en.wiktionary.org/wiki/μάχομαι#Inflection) : fight (against)
-- [νομίζω, νομιῶ, ἐνόμισα](https://en.wiktionary.org/wiki/νομίζω#Inflection) : think, believe in
-- [ὁμολογέω, ὁμολογήσω, ὡμολόγησα](https://en.wiktionary.org/wiki/ὁμολογέω#Inflection) : agree; admit
-- [χἀριν ἔχω](https://en.wiktionary.org/wiki/χἀριν#Inflection) : be grateful, give thanks
+### Adjectives
+- [πολύς, πολλή, πολύ](https://en.wiktionary.org/wiki/πολύς#Declension) : much, many
 
 ## Chapter 13
 
-### Adjective
-- [ἄδικος, ἄδικον](https://en.wiktionary.org/wiki/ἄδικος#Declension) : unjust
-- [ἀθάνατος, ἀθάνατον](https://en.wiktionary.org/wiki/ἀθάνατος#Declension) : immortal
-- [σὠφρων, σὠφρον](https://en.wiktionary.org/wiki/σὠφρων#Declension) : prudent, sensible; self-controlled
-
-### Adverb
-- [εὐθύς](https://en.wiktionary.org/wiki/εὐθύς#Adverb) : immediately
-- [ποῦ](https://en.wiktionary.org/wiki/ποῦ#Adverb) : where
-
-### Noun
-- [ἀνάγκη, ἀνάγκης, ἡ](https://en.wiktionary.org/wiki/ἀνάγκη#Declension) : necessity
-- [νόμος, νόμου, ὁ](https://en.wiktionary.org/wiki/νόμος#Declension) : law, custom, tradition
-- [σώμα, σώματος, τό](https://en.wiktionary.org/wiki/σώμα#Declension) : body
-- [τέλος, τέλους, τό](https://en.wiktionary.org/wiki/τέλος#Declension) : end; aim
-- [υἱός, υἱοῦ, ὁ](https://en.wiktionary.org/wiki/υἱός#Declension) : son
-- [ψυχή, ψυχῆς, ἡ](https://en.wiktionary.org/wiki/ψυχή#Declension) : soul
-
-### Verb
+### Verbs
 - [ἀδικἐω, ἀδικήσω, ἡδίκξσα](https://en.wiktionary.org/wiki/ἀδικἐω#Inflection) : do wrong; injure
 - [δοκέω, δόξα, ἔδοξα](https://en.wiktionary.org/wiki/δοκέω#Inflection) : think; seem, seem good/best
 - [εὐρίσκω, εὐρήσω, ηὖρον/εὖρον](https://en.wiktionary.org/wiki/εὐρίσκω#Inflection) : find, discover
@@ -353,3 +336,20 @@
 - [ἥδομαι, ἥδησομαι](https://en.wiktionary.org/wiki/ἥδομαι#Inflection) : enjoy, be glad, delight in (+ dat.)
 - [τυγχἀνω, τεύξ, ἔτυχον](https://en.wiktionary.org/wiki/τυγχἀνω#Inflection) : happen to (+ part.); meet, happen upon (+ gen.)
 - [χαίρω, χαιρπησω, ἐχαἰρησα](https://en.wiktionary.org/wiki/χαίρω#Inflection) : enjoy, rejoice (at); be glad
+
+### Nouns
+- [ἀνάγκη, ἀνάγκης, ἡ](https://en.wiktionary.org/wiki/ἀνάγκη#Declension) : necessity
+- [νόμος, νόμου, ὁ](https://en.wiktionary.org/wiki/νόμος#Declension) : law, custom, tradition
+- [σώμα, σώματος, τό](https://en.wiktionary.org/wiki/σώμα#Declension) : body
+- [τέλος, τέλους, τό](https://en.wiktionary.org/wiki/τέλος#Declension) : end; aim
+- [υἱός, υἱοῦ, ὁ](https://en.wiktionary.org/wiki/υἱός#Declension) : son
+- [ψυχή, ψυχῆς, ἡ](https://en.wiktionary.org/wiki/ψυχή#Declension) : soul
+
+### Adjectives
+- [ἄδικος, ἄδικον](https://en.wiktionary.org/wiki/ἄδικος#Declension) : unjust
+- [ἀθάνατος, ἀθάνατον](https://en.wiktionary.org/wiki/ἀθάνατος#Declension) : immortal
+- [σὠφρων, σὠφρον](https://en.wiktionary.org/wiki/σὠφρων#Declension) : prudent, sensible; self-controlled
+
+### Adverbs
+- [εὐθύς](https://en.wiktionary.org/wiki/εὐθύς#Adverb) : immediately
+- [ποῦ](https://en.wiktionary.org/wiki/ποῦ#Adverb) : where

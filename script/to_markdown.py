@@ -26,15 +26,15 @@ href_dict = {
 }
 
 pos_dict = {
-    "ADJ": "Adjective",
-    "ADV": "Adverb",
-    "CONJ": "Conjunction",
-    "INTER": "Interjection",
-    "NOUN": "Noun",
-    "PART": "Particle",
-    "PREP": "Preposition",
-    "PRO": "Pronoun",
-    "VERB": "Verb",
+    "ADJ": "Adjectives",
+    "ADV": "Adverbs",
+    "CONJ": "Conjunctions",
+    "INTER": "Interjections",
+    "NOUN": "Nouns",
+    "PART": "Particles",
+    "PREP": "Prepositions",
+    "PRO": "Pronouns",
+    "VERB": "Verbs",
 }
 
 current_chapter = None
