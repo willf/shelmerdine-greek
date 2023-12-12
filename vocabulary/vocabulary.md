@@ -258,7 +258,8 @@
 - [σύμμαχος, συμμάχου, ὁ/ἡ](https://en.wiktionary.org/wiki/σύμμαχος#Declension) : ally
 
 ### Prepositions
-- [κατά](https://en.wiktionary.org/wiki/κατά#Preposition) : down from, down upon
+- [κατά (+ gen.)](https://en.wiktionary.org/wiki/κατά#Preposition) : down from, down upon
+- [κατά (+ acc.)](https://en.wiktionary.org/wiki/κατά#Preposition) : over, down along; according to; against, opposite
 
 ### Conjunctions
 - [εἰ](https://en.wiktionary.org/wiki/εἰ#Conjunction) : 

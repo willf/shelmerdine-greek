@@ -169,7 +169,8 @@ form	translation	chapter	POS
 Ξενοφῶν, Ξενοφῶντος, ὁ	Xenophon	10	NOUN
 σύμμαχος, συμμάχου, ὁ/ἡ	ally	10	NOUN
 ἄν	marks irrealis	10	PART
-κατά	down from, down upon	10	PREP
+κατά (+ gen.)	down from, down upon	10	PREP
+κατά (+ acc.)	over, down along; according to; against, opposite	10	PREP
 ἀκούω, ἀκούσω, ἤκουσα	listen	10	VERB
 ἀποθνῄσκω, ἀποθανοῦμαι, ἀπέθανον	die	10	VERB
 δράω, δράσω, ἔδρασα	do, act	10	VERB
