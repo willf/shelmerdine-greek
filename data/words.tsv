@@ -159,16 +159,16 @@ form	translation	chapter	POS
 οὐδέν	nothing	9	PRO
 σύ	you (singular)	9	PRO
 ὑμεῖς	you (plural)	9	PRO
-εἰ		10	CONJ
-ἐπεἰ῎ἐειδἠ	if	10	CONJ
-ὄτε	when, since, after	10	CONJ
-ὄτι	when	10	CONJ
+εἰ	if	10	CONJ
+ἐπεἰ, ἐπειδἠ	when, since, after	10	CONJ
+ὄτε	when	10	CONJ
+ὄτι	because	10	CONJ
 γῆ, γῆς, ἡ	earth	10	NOUN
 εἰρήνη, εἰρήνης, ἡ	peace	10	NOUN
 ἐλπίς, ἐλπίδος, ἡ	hope	10	NOUN
 Ξενοφῶν, Ξενοφῶντος, ὁ	Xenophon	10	NOUN
 σύμμαχος, συμμάχου, ὁ/ἡ	ally	10	NOUN
-ἄν	marks irrealis	10	PART
+ἄν (postpos.)	(+ indic.) marks irrealis	10	PART
 κατά (+ gen.)	down from, down upon	10	PREP
 κατά (+ acc.)	over, down along; according to; against, opposite	10	PREP
 ἀκούω, ἀκούσω, ἤκουσα	listen	10	VERB

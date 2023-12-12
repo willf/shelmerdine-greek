@@ -262,13 +262,13 @@
 - [κατά (+ acc.)](https://en.wiktionary.org/wiki/κατά#Preposition) : over, down along; according to; against, opposite
 
 ### Conjunctions
-- [εἰ](https://en.wiktionary.org/wiki/εἰ#Conjunction) : 
-- [ἐπεἰ῎ἐειδἠ](https://en.wiktionary.org/wiki/ἐπεἰ῎ἐειδἠ#Conjunction) : if
-- [ὄτε](https://en.wiktionary.org/wiki/ὄτε#Conjunction) : when, since, after
-- [ὄτι](https://en.wiktionary.org/wiki/ὄτι#Conjunction) : when
+- [εἰ](https://en.wiktionary.org/wiki/εἰ#Conjunction) : if
+- [ἐπεἰ, ἐπειδἠ](https://en.wiktionary.org/wiki/ἐπεἰ#Conjunction) : when, since, after
+- [ὄτε](https://en.wiktionary.org/wiki/ὄτε#Conjunction) : when
+- [ὄτι](https://en.wiktionary.org/wiki/ὄτι#Conjunction) : because
 
 ### Particles
-- [ἄν](https://en.wiktionary.org/wiki/ἄν#Particle) : marks irrealis
+- [ἄν (postpos.)](https://en.wiktionary.org/wiki/ἄν#Particle) : (+ indic.) marks irrealis
 
 ## Chapter 11
 
