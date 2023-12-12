@@ -263,9 +263,9 @@
 
 ### Conjunctions
 - [εἰ](https://en.wiktionary.org/wiki/εἰ#Conjunction) : if
-- [ἐπεἰ, ἐπειδἠ](https://en.wiktionary.org/wiki/ἐπεἰ#Conjunction) : when, since, after
-- [ὄτε](https://en.wiktionary.org/wiki/ὄτε#Conjunction) : when
-- [ὄτι](https://en.wiktionary.org/wiki/ὄτι#Conjunction) : because
+- [ἐπεί, ἐπειδἠ](https://en.wiktionary.org/wiki/ἐπεί#Conjunction) : when, since, after
+- [ὅτε](https://en.wiktionary.org/wiki/ὅτε#Conjunction) : when
+- [ὅτι](https://en.wiktionary.org/wiki/ὅτι#Conjunction) : because
 
 ### Particles
 - [ἄν (postpos.)](https://en.wiktionary.org/wiki/ἄν#Particle) : (+ indic.) marks irrealis
