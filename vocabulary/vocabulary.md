@@ -47,13 +47,13 @@
 ## Chapter 4
 
 ### Preposition
-- [ἀπό](https://en.wiktionary.org/wiki/ἀπό#Preposition): from, away from, of
-- [εἰς](https://en.wiktionary.org/wiki/εἰς#Preposition): into, onto
-- [ἐκ](https://en.wiktionary.org/wiki/ἐκ#Preposition): out of, from
-- [ἐν](https://en.wiktionary.org/wiki/ἐν#Preposition): in, on; (plural) among
-- [πρὀς](https://en.wiktionary.org/wiki/πρὀς#Preposition): from; on the side of; in favor of
-- [πρὀς](https://en.wiktionary.org/wiki/πρὀς#Preposition): near, at; in addition to
-- [πρὀς](https://en.wiktionary.org/wiki/πρὀς#Preposition): to, toward; in relation to
+- [ἀπό (+ gen.)](https://en.wiktionary.org/wiki/ἀπό#Preposition): from, away from, of
+- [εἰς (+ acc.)](https://en.wiktionary.org/wiki/εἰς#Preposition): into, onto
+- [ἐκ (+ gen.)](https://en.wiktionary.org/wiki/ἐκ#Preposition): out of, from
+- [ἐν (+ gen) ἐξ before a vowel](https://en.wiktionary.org/wiki/ἐν#Preposition): in, on; (plural) among
+- [πρός (+ gen.)](https://en.wiktionary.org/wiki/πρός#Preposition): from; on the side of; in favor of
+- [πρός (+ dat.)](https://en.wiktionary.org/wiki/πρός#Preposition): near, at; in addition to
+- [πρός (+ acc.)](https://en.wiktionary.org/wiki/πρός#Preposition): to, toward; in relation to
 
 ### Noun
 - [Ἀθῆναι, Ἀθηνῶν, αἱ](https://en.wiktionary.org/wiki/Ἀθῆναι#Declension): Athens

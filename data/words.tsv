@@ -31,13 +31,13 @@ form	translation	chapter	POS
 ἤ ... ἤ	either ... or	3	CONJ
 καί	and	3	CONJ
 καί ... καί	both ... and	3	CONJ
-ἀπό	from, away from, of	4	PREP
-εἰς	into, onto	4	PREP
-ἐκ	out of, from	4	PREP
-ἐν	in, on; (plural) among	4	PREP
-πρὀς	from; on the side of; in favor of	4	PREP
-πρὀς	near, at; in addition to	4	PREP
-πρὀς	to, toward; in relation to	4	PREP
+ἀπό (+ gen.)	from, away from, of	4	PREP
+εἰς (+ acc.)	into, onto	4	PREP
+ἐκ (+ gen.)	out of, from	4	PREP
+ἐν (+ gen) ἐξ before a vowel	in, on; (plural) among	4	PREP
+πρός (+ gen.)	from; on the side of; in favor of	4	PREP
+πρός (+ dat.)	near, at; in addition to	4	PREP
+πρός (+ acc.)	to, toward; in relation to	4	PREP
 Ἀθῆναι, Ἀθηνῶν, αἱ	Athens	4	NOUN
 ἔτος, ἔτους, τό	year	4	NOUN
 λόγος, λόγου, ὁ	word	4	NOUN
