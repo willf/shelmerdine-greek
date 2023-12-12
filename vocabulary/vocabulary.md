@@ -352,7 +352,7 @@
 ### Adjectives
 - [ἄδικος, ἄδικον](https://en.wiktionary.org/wiki/ἄδικος#Declension) : unjust
 - [ἀθάνατος, ἀθάνατον](https://en.wiktionary.org/wiki/ἀθάνατος#Declension) : immortal
-- [σὠφρων, σὠφρον](https://en.wiktionary.org/wiki/σὠφρων#Declension) : prudent, sensible; self-controlled
+- [σώφρων, σῳφρον](https://en.wiktionary.org/wiki/σώφρων#Declension) : prudent, sensible; self-controlled
 
 ### Adverbs
 - [εὐθύς](https://en.wiktionary.org/wiki/εὐθύς#Adverb) : immediately
