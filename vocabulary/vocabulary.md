@@ -305,7 +305,7 @@
 ## Chapter 12
 
 ### Verbs
-- [βοὐλομαι, βουλήσομαι, ἐβουλήθην](https://en.wiktionary.org/wiki/βοὐλομαι#Inflection) : want
+- [βούλομαι, βουλήσομαι, ἐβουλήθην](https://en.wiktionary.org/wiki/βούλομαι#Inflection) : want
 - [γίγνομαι, γενήσομαι, ἐγενόμην](https://en.wiktionary.org/wiki/γίγνομαι#Inflection) : become, be; happen
 - [ἐλπίζω, ἐλπίσω, ἤλπισα](https://en.wiktionary.org/wiki/ἐλπίζω#Inflection) : hope
 - [ἔρχομαι, ἐλεύσομαι, ἦλθον](https://en.wiktionary.org/wiki/ἔρχομαι#Inflection) : come; go
