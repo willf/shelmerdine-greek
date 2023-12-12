@@ -141,11 +141,11 @@
 ## Chapter 7
 
 ### Verbs
-- ['ἔχω, ἔξω/σχήσω, ἔσχον (impf. εἶχον)](https://en.wiktionary.org/wiki/'ἔχω#Inflection) : have
+- [ἔχω, ἔξω/σχήσω, ἔσχον (impf. εἶχον)](https://en.wiktionary.org/wiki/ἔχω#Inflection) : have
 - [ἄγω, ἄξω, ἤγαγον](https://en.wiktionary.org/wiki/ἄγω#Inflection) : lead, bring
 - [εἰμί, ἔσθμαι (present encl. excep 2 sg imperf. ἦν)](https://en.wiktionary.org/wiki/εἰμί#Inflection) : be
 - [λαμβάνω, λήψομαι, ἔλαβον](https://en.wiktionary.org/wiki/λαμβάνω#Inflection) : take, seize, receive
-- [ὀνομάξω, ὀνομάσω, ὠνὀμασα](https://en.wiktionary.org/wiki/ὀνομάξω#Inflection) : name, call by name, call X and X (2 acc)
+- [ὀνομάζω, ὀνομάσω, ὠνὀμασα](https://en.wiktionary.org/wiki/ὀνομάζω#Inflection) : name, call by name, call X and X (2 acc)
 - [φέρω, οἴσω, ὠωὀμασα](https://en.wiktionary.org/wiki/φέρω#Inflection) : carry, bear, bring
 
 ### Nouns
