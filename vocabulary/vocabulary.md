@@ -276,7 +276,7 @@
 - [ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα](https://en.wiktionary.org/wiki/ἀποκτείνω#Inflection) : kill
 - [βάλλω, βαλῶ, ἔβαλον](https://en.wiktionary.org/wiki/βάλλω#Inflection) : throw
 - [βοηθέω, βοηθήσω, ἐβοήθησα](https://en.wiktionary.org/wiki/βοηθέω#Inflection) : help
-- [βουλέυω, βουλεύσω, ἐβούλευσα](https://en.wiktionary.org/wiki/βουλέυω#Inflection) : plan
+- [βουλεύω, βουλεύσω, ἐβούλευσα](https://en.wiktionary.org/wiki/βουλεύω#Inflection) : plan
 - [διαφθείρω, διαφθερῶ, διέφθειρα](https://en.wiktionary.org/wiki/διαφθείρω#Inflection) : destroy, corrupt
 - [εἰσβάλλω, εἰσβαλῶ, εἰσέβαλον](https://en.wiktionary.org/wiki/εἰσβάλλω#Inflection) : throw into, invade
 - [μένω, μενῶ, ἔμεινα](https://en.wiktionary.org/wiki/μένω#Inflection) : remain, stay; wait for
