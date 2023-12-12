@@ -242,7 +242,7 @@
 
 ### Verbs
 - [ἀκούω, ἀκούσω, ἤκουσα](https://en.wiktionary.org/wiki/ἀκούω#Inflection) : listen
-- [ἀποθνήσκω, ἀποθανοῦμαι, ἀπέθανον](https://en.wiktionary.org/wiki/ἀποθνήσκω#Inflection) : die
+- [ἀποθνῄσκω, ἀποθανοῦμαι, ἀπέθανον](https://en.wiktionary.org/wiki/ἀποθνῄσκω#Inflection) : die
 - [δράω, δράσω, ἔδρασα](https://en.wiktionary.org/wiki/δράω#Inflection) : do, act
 - [θνήσκω, θανοῦμαι, ἔθανον](https://en.wiktionary.org/wiki/θνήσκω#Inflection) : die
 - [ὁράω, ὄψομαι, εἶδον](https://en.wiktionary.org/wiki/ὁράω#Inflection) : see
