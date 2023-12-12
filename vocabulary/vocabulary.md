@@ -338,7 +338,7 @@
 - [εὑρίσκω, εὑρήσω, ηὖρον/εὖρον](https://en.wiktionary.org/wiki/εὑρίσκω#Inflection) : find, discover
 - [ζητέω, ζητήσω, ἐζἠτησα](https://en.wiktionary.org/wiki/ζητέω#Inflection) : seek, look for; investigate
 - [ἥδομαι, ἥδησομαι](https://en.wiktionary.org/wiki/ἥδομαι#Inflection) : enjoy, be glad, delight in (+ dat.)
-- [τυγχἀνω, τεύξ, ἔτυχον](https://en.wiktionary.org/wiki/τυγχἀνω#Inflection) : happen to (+ part.); meet, happen upon (+ gen.)
+- [τυγχάνω, τεύξομαι, ἔτυχον](https://en.wiktionary.org/wiki/τυγχάνω#Inflection) : happen to (+ part.); meet, happen upon (+ gen.)
 - [χαίρω, χαιρπησω, ἐχαἰρησα](https://en.wiktionary.org/wiki/χαίρω#Inflection) : enjoy, rejoice (at); be glad
 
 ### Nouns
