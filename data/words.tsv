@@ -60,12 +60,12 @@ form	translation	chapter	POS
 πράττω, πράξω, ἔπραξα	do, accomplish	5	VERB
 φεύγω, φεύξομαι, ἔφυγον	flee, escape	5	VERB
 φυλάττω, φυλάξω, ἐφύλαξα	guard, protect	5	VERB
-διἀ	through	5	PREP
-διἀ	because of, on account of	5	PREP
-μετά	with	5	PREP
-μετά	after	5	PREP
-περί	about, concerning	5	PREP
-περί	around	5	PREP
+διἀ (+ gen.)	through	5	PREP
+διἀ (+ acc.)	because of, on account of	5	PREP
+μετά (+ gen.)	with	5	PREP
+μετά (+ acc.)	after	5	PREP
+περί (+ gen.)	about, concerning	5	PREP
+περί (+ acc.)	around	5	PREP
 ἡμέρα, ἡμέρας, ἡ	day	5	NOUN
 εὔ	well	5	ADV
 κακῶς	badly	5	ADV

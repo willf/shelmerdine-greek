@@ -88,12 +88,12 @@
 - [φυλάττω, φυλάξω, ἐφύλαξα](https://en.wiktionary.org/wiki/φυλάττω#Inflection): guard, protect
 
 ### Preposition
-- [διἀ](https://en.wiktionary.org/wiki/διἀ#Preposition): through
-- [διἀ](https://en.wiktionary.org/wiki/διἀ#Preposition): because of, on account of
-- [μετά](https://en.wiktionary.org/wiki/μετά#Preposition): with
-- [μετά](https://en.wiktionary.org/wiki/μετά#Preposition): after
-- [περί](https://en.wiktionary.org/wiki/περί#Preposition): about, concerning
-- [περί](https://en.wiktionary.org/wiki/περί#Preposition): around
+- [διἀ (+ gen.)](https://en.wiktionary.org/wiki/διἀ#Preposition): through
+- [διἀ (+ acc.)](https://en.wiktionary.org/wiki/διἀ#Preposition): because of, on account of
+- [μετά (+ gen.)](https://en.wiktionary.org/wiki/μετά#Preposition): with
+- [μετά (+ acc.)](https://en.wiktionary.org/wiki/μετά#Preposition): after
+- [περί (+ gen.)](https://en.wiktionary.org/wiki/περί#Preposition): about, concerning
+- [περί (+ acc.)](https://en.wiktionary.org/wiki/περί#Preposition): around
 
 ### Noun
 - [ἡμέρα, ἡμέρας, ἡ](https://en.wiktionary.org/wiki/ἡμέρα#Declension): day
