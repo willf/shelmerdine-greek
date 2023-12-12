@@ -282,7 +282,7 @@
 - [μένω, μενῶ, ἔμεινα](https://en.wiktionary.org/wiki/μένω#Inflection) : remain, stay; wait for
 - [νικάω, νικήσω, ἐνίκησα](https://en.wiktionary.org/wiki/νικάω#Inflection) : conquer
 - [πεπιβάλλω, πεπιβαλῶ, πεπέβαλον](https://en.wiktionary.org/wiki/πεπιβάλλω#Inflection) : throw around, surround
-- [συμβουλέω, συμβουλεύσω, συνεβούλευσα](https://en.wiktionary.org/wiki/συμβουλέω#Inflection) : advise
+- [συμβουλεύω, συμβουλεύσω, συνεβούλευσα](https://en.wiktionary.org/wiki/συμβουλεύω#Inflection) : advise
 
 ### Nouns
 - [ἔτος, ἔτους, τό](https://en.wiktionary.org/wiki/ἔτος#Declension) : year
