@@ -155,7 +155,7 @@
 - [φύλαξ, φύλακος, ο](https://en.wiktionary.org/wiki/φύλαξ#Declension) : guard
 
 ### Preposition
-- [σὖν](https://en.wiktionary.org/wiki/σὖν#Preposition) : with
+- [σὖν (+ dat.)](https://en.wiktionary.org/wiki/σὖν#Preposition) : with
 
 ### Verb
 - ['ἔχω, ἔξω/σχήσω, ἔσχον (impf. εἶχον)](https://en.wiktionary.org/wiki/'ἔχω#Inflection) : have
