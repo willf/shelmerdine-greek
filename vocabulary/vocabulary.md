@@ -336,7 +336,7 @@
 - [ἀδικέω, ἀδικήσω, ἡδίκξσα](https://en.wiktionary.org/wiki/ἀδικέω#Inflection) : do wrong; injure
 - [δοκέω, δόξα, ἔδοξα](https://en.wiktionary.org/wiki/δοκέω#Inflection) : think; seem, seem good/best
 - [εὑρίσκω, εὑρήσω, ηὖρον/εὖρον](https://en.wiktionary.org/wiki/εὑρίσκω#Inflection) : find, discover
-- [ζξτέω, ζητήσω, ἐζἠτησα](https://en.wiktionary.org/wiki/ζξτέω#Inflection) : seek, look for; investigate
+- [ζητέω, ζητήσω, ἐζἠτησα](https://en.wiktionary.org/wiki/ζητέω#Inflection) : seek, look for; investigate
 - [ἥδομαι, ἥδησομαι](https://en.wiktionary.org/wiki/ἥδομαι#Inflection) : enjoy, be glad, delight in (+ dat.)
 - [τυγχἀνω, τεύξ, ἔτυχον](https://en.wiktionary.org/wiki/τυγχἀνω#Inflection) : happen to (+ part.); meet, happen upon (+ gen.)
 - [χαίρω, χαιρπησω, ἐχαἰρησα](https://en.wiktionary.org/wiki/χαίρω#Inflection) : enjoy, rejoice (at); be glad
