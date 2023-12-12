@@ -291,18 +291,16 @@
 - [χρῆμα, χρήματος, τό](https://en.wiktionary.org/wiki/χρῆμα#Declension) : thing, matter; (pl.) goods, money
 
 ### Adjectives
-- [ἀληθής, ἀληθής, ἀληθές](https://en.wiktionary.org/wiki/ἀληθής#Declension) : TRUE
+- [ἀληθής, ἀληθής, ἀληθές](https://en.wiktionary.org/wiki/ἀληθής#Declension) : true
 - [ἄξιος, ἀξία, ἄξιον](https://en.wiktionary.org/wiki/ἄξιος#Declension) : worthy
-- [ἄξιος, ἀξία, ἄξιον](https://en.wiktionary.org/wiki/ἄξιος#Declension) : worthy
-- [ἀσφαλής, ἀσφαλής, ἀσφαλές](https://en.wiktionary.org/wiki/ἀσφαλής#Declension) : safe
 - [ἀσφαλής, ἀσφαλής, ἀσφαλές](https://en.wiktionary.org/wiki/ἀσφαλής#Declension) : safe
 - [εὐδαίμων, εὐδαίμων, εὐδαίμον](https://en.wiktionary.org/wiki/εὐδαίμων#Declension) : blessed, happy
-- [ψευδής, ψευδής, ψευδές](https://en.wiktionary.org/wiki/ψευδής#Declension) : FALSE
+- [ψευδής, ψευδής, ψευδές](https://en.wiktionary.org/wiki/ψευδής#Declension) : false
 
 ### Prepositions
-- [ἐπί](https://en.wiktionary.org/wiki/ἐπί#Preposition) : on, upon
-- [ἐπί](https://en.wiktionary.org/wiki/ἐπί#Preposition) : on, at, near
-- [ἐπί](https://en.wiktionary.org/wiki/ἐπί#Preposition) : toward, against; upon, on to, up to
+- [ἐπί (+ gen.)](https://en.wiktionary.org/wiki/ἐπί#Preposition) : on, upon
+- [ἐπί (+ dat.)](https://en.wiktionary.org/wiki/ἐπί#Preposition) : on, at, near
+- [ἐπί (+ acc.)](https://en.wiktionary.org/wiki/ἐπί#Preposition) : toward, against; upon, on to, up to
 
 ## Chapter 12
 

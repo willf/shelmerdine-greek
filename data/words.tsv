@@ -179,20 +179,18 @@ form	translation	chapter	POS
 ποιέω, ποιήσω, ἐποίησα	make, do	10	VERB
 τιμάω, τιμήσω, ἐτίμησα	honor	10	VERB
 φιλέω, φιλήσω, ἐφίλησα	love	10	VERB
-ἀληθής, ἀληθής, ἀληθές	TRUE	11	ADJ
+ἀληθής, ἀληθής, ἀληθές	true	11	ADJ
 ἄξιος, ἀξία, ἄξιον	worthy	11	ADJ
-ἄξιος, ἀξία, ἄξιον	worthy	11	ADJ
-ἀσφαλής, ἀσφαλής, ἀσφαλές	safe	11	ADJ
 ἀσφαλής, ἀσφαλής, ἀσφαλές	safe	11	ADJ
 εὐδαίμων, εὐδαίμων, εὐδαίμον	blessed, happy	11	ADJ
-ψευδής, ψευδής, ψευδές	FALSE	11	ADJ
+ψευδής, ψευδής, ψευδές	false	11	ADJ
 ἔτος, ἔτους, τό	year	11	NOUN
 Σωκράτης, Σωκράτους, ὁ	Socrates	11	NOUN
 τεῖχος, τείχους, τό	wall	11	NOUN
 χρῆμα, χρήματος, τό	thing, matter; (pl.) goods, money	11	NOUN
-ἐπί	on, upon	11	PREP
-ἐπί	on, at, near	11	PREP
-ἐπί	toward, against; upon, on to, up to	11	PREP
+ἐπί (+ gen.)	on, upon	11	PREP
+ἐπί (+ dat.)	on, at, near	11	PREP
+ἐπί (+ acc.)	toward, against; upon, on to, up to	11	PREP
 ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα	kill	11	VERB
 βάλλω, βαλῶ, ἔβαλον	throw	11	VERB
 βοηθέω, βοηθήσω, ἐβοήθησα	help	11	VERB
