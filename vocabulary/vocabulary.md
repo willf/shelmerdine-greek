@@ -281,7 +281,7 @@
 - [εἰσβάλλω, εἰσβαλῶ, εἰσέβαλον](https://en.wiktionary.org/wiki/εἰσβάλλω#Inflection) : throw into, invade
 - [μένω, μενῶ, ἔμεινα](https://en.wiktionary.org/wiki/μένω#Inflection) : remain, stay; wait for
 - [νικάω, νικήσω, ἐνίκησα](https://en.wiktionary.org/wiki/νικάω#Inflection) : conquer
-- [πεπιβάλλω, πεπιβαλῶ, πεπέβαλον](https://en.wiktionary.org/wiki/πεπιβάλλω#Inflection) : throw around, surround
+- [περιβάλλω, περιβαλῶ, περέβαλον](https://en.wiktionary.org/wiki/περιβάλλω#Inflection) : throw around, surround
 - [συμβουλεύω, συμβουλεύσω, συνεβούλευσα](https://en.wiktionary.org/wiki/συμβουλεύω#Inflection) : advise
 
 ### Nouns
