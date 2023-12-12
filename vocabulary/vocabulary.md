@@ -159,11 +159,13 @@
 - [φύλαξ, φύλακος, ο](https://en.wiktionary.org/wiki/φύλαξ#Declension) : guard
 
 ### Adverbs
-- [οὖν](https://en.wiktionary.org/wiki/οὖν#Adverb) : so, therefore, in fact
 - [τότε](https://en.wiktionary.org/wiki/τότε#Adverb) : then, at that time
 
 ### Prepositions
 - [σὖν (+ dat.)](https://en.wiktionary.org/wiki/σὖν#Preposition) : with
+
+### Particles
+- [οὖν](https://en.wiktionary.org/wiki/οὖν#Particle) : so, therefore, in fact
 
 ## Chapter 8
 
