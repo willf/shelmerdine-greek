@@ -190,9 +190,11 @@
 - [τάλας, τάλαινα, τάλαν](https://en.wiktionary.org/wiki/τάλας#Declension) : wretched, miserable, suffering
 
 ### Adverbs
-- [μή](https://en.wiktionary.org/wiki/μή#Adverb) : not
 - [πάλιν](https://en.wiktionary.org/wiki/πάλιν#Adverb) : back; again
-- [τοτἐ](https://en.wiktionary.org/wiki/τοτἐ#Adverb) : at some time, ever, in the world
+- [τοτέ](https://en.wiktionary.org/wiki/τοτέ#Adverb) : at some time, ever, in the world
+
+### Particles
+- [μή](https://en.wiktionary.org/wiki/μή#Particle) : not
 
 ## Chapter 9
 
