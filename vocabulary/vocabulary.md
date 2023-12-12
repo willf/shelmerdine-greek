@@ -1,4 +1,4 @@
-# Introduction to Greek (Shelmerdine & Shelmerdine) Vocabulary
+# Introduction to Greek (Shelmerdine & Shelmerdine, 3rd Edition) Vocabulary
 
 ## Chapter 2
 
