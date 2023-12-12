@@ -34,7 +34,7 @@
 - [φίλος, φίλου, ὁ](https://en.wiktionary.org/wiki/φίλος#Declension): friend
 
 ### Interjection
-- [ὦ](https://en.wiktionary.org/wiki/ὦ): O!
+- [ὦ](https://en.wiktionary.org/wiki/ὦ#Interjection): O!
 
 ### Conjunction
 - [ἀλλά](https://en.wiktionary.org/wiki/ἀλλά#Conjunction): but, however, nevertheless

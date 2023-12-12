@@ -17,7 +17,7 @@ href_dict = {
     "ADJ": "Declension",
     "ADV": "Adverb",
     "CONJ": "Conjunction",
-    "INTER": None,
+    "INTER": "Interjection",
     "NOUN": "Declension",
     "PART": None,
     "PREP": "Preposition",
