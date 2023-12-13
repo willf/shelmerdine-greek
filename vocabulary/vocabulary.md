@@ -114,8 +114,8 @@
 - [ὅπλον, ὅπλου, τό](https://en.wiktionary.org/wiki/ὅπλον#Declension) : weapon
 
 ### Pronouns
-- [τί](https://en.wiktionary.org/wiki/τί#Pronoun) : what?
-- [τίς](https://en.wiktionary.org/wiki/τίς#Pronoun) : who?
+- [τί](https://en.wiktionary.org/wiki/τί#Declension) : what?
+- [τίς](https://en.wiktionary.org/wiki/τίς#Declension) : who?
 
 ### Adjectives
 - [ἀγαθός, ἀγαθή, ἀγαθόν](https://en.wiktionary.org/wiki/ἀγαθός#Declension) : good
@@ -213,19 +213,19 @@
 - [χρόνος, χρόνου, ὁ](https://en.wiktionary.org/wiki/χρόνος#Declension) : time
 
 ### Pronouns
-- [αὐτή](https://en.wiktionary.org/wiki/αὐτή#Pronoun) : she, her
-- [αὐτό](https://en.wiktionary.org/wiki/αὐτό#Pronoun) : it
-- [αὐτός](https://en.wiktionary.org/wiki/αὐτός#Pronoun) : he, him
-- [ἐγώ](https://en.wiktionary.org/wiki/ἐγώ#Pronoun) : I, me
-- [ἡμεῖς](https://en.wiktionary.org/wiki/ἡμεῖς#Pronoun) : we, us
-- [μηδείς](https://en.wiktionary.org/wiki/μηδείς#Pronoun) : no one (in negative clauses)
-- [μηδεμία](https://en.wiktionary.org/wiki/μηδεμία#Pronoun) : not any, none (in negative clauses)
-- [μηδέν](https://en.wiktionary.org/wiki/μηδέν#Pronoun) : nothing (in negative clauses)
-- [οὐδείς](https://en.wiktionary.org/wiki/οὐδείς#Pronoun) : no one, nobody
-- [οὐδεμία](https://en.wiktionary.org/wiki/οὐδεμία#Pronoun) : not any, none
-- [οὐδέν](https://en.wiktionary.org/wiki/οὐδέν#Pronoun) : nothing
-- [σύ](https://en.wiktionary.org/wiki/σύ#Pronoun) : you (singular)
-- [ὑμεῖς](https://en.wiktionary.org/wiki/ὑμεῖς#Pronoun) : you (plural)
+- [αὐτή](https://en.wiktionary.org/wiki/αὐτή#Declension) : she, her
+- [αὐτό](https://en.wiktionary.org/wiki/αὐτό#Declension) : it
+- [αὐτός](https://en.wiktionary.org/wiki/αὐτός#Declension) : he, him
+- [ἐγώ](https://en.wiktionary.org/wiki/ἐγώ#Declension) : I, me
+- [ἡμεῖς](https://en.wiktionary.org/wiki/ἡμεῖς#Declension) : we, us
+- [μηδείς](https://en.wiktionary.org/wiki/μηδείς#Declension) : no one (in negative clauses)
+- [μηδεμία](https://en.wiktionary.org/wiki/μηδεμία#Declension) : not any, none (in negative clauses)
+- [μηδέν](https://en.wiktionary.org/wiki/μηδέν#Declension) : nothing (in negative clauses)
+- [οὐδείς](https://en.wiktionary.org/wiki/οὐδείς#Declension) : no one, nobody
+- [οὐδεμία](https://en.wiktionary.org/wiki/οὐδεμία#Declension) : not any, none
+- [οὐδέν](https://en.wiktionary.org/wiki/οὐδέν#Declension) : nothing
+- [σύ](https://en.wiktionary.org/wiki/σύ#Declension) : you (singular)
+- [ὑμεῖς](https://en.wiktionary.org/wiki/ὑμεῖς#Declension) : you (plural)
 
 ### Adjectives
 - [ἄλλος, ἄλλη, ἄλλο](https://en.wiktionary.org/wiki/ἄλλος#Declension) : other, another
@@ -370,10 +370,10 @@
 - [φόβος, φόβου, ὁ](https://en.wiktionary.org/wiki/φόβος#Declension) : fear,panic
 
 ### Pronouns
-- [ἀλλήλων, ἀλλήλων, ἀλλήλων](https://en.wiktionary.org/wiki/ἀλλήλων#Pronoun) : one another, each other (reciprocal)
-- [ἐκεῖνος, ἐκείνη, ἐκεῖνο](https://en.wiktionary.org/wiki/ἐκεῖνος#Pronoun) : that (one); (pl.) these
-- [ὅδε, ἥδε, τόδε](https://en.wiktionary.org/wiki/ὅδε#Pronoun) : this (one, as follows), (pl.) these
-- [οὕτος, αὕτη, τοῦτο](https://en.wiktionary.org/wiki/οὕτος#Pronoun) : this (one, already mentioned); (pl.) these
+- [ἀλλήλων, ἀλλήλων, ἀλλήλων](https://en.wiktionary.org/wiki/ἀλλήλων#Declension) : one another, each other (reciprocal)
+- [ἐκεῖνος, ἐκείνη, ἐκεῖνο](https://en.wiktionary.org/wiki/ἐκεῖνος#Declension) : that (one); (pl.) these
+- [ὅδε, ἥδε, τόδε](https://en.wiktionary.org/wiki/ὅδε#Declension) : this (one, as follows), (pl.) these
+- [οὕτος, αὕτη, τοῦτο](https://en.wiktionary.org/wiki/οὕτος#Declension) : this (one, already mentioned); (pl.) these
 
 ### Adjectives
 - [βραχύς, βραχεῖα, βραχύ](https://en.wiktionary.org/wiki/βραχύς#Declension) : short, brief

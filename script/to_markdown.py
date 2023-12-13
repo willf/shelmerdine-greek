@@ -21,7 +21,7 @@ href_dict = {
     "NOUN": "Declension",
     "PART": "Particle",
     "PREP": "Preposition",
-    "PRO": "Pronoun",
+    "PRO": "Declension",
     "VERB": "Inflection",
 }
 
