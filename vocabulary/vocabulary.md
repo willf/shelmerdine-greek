@@ -373,7 +373,7 @@
 - [ἀλλήλων, ἀλλήλων, ἀλλήλων](https://en.wiktionary.org/wiki/ἀλλήλων#Declension) : one another, each other (reciprocal)
 - [ἐκεῖνος, ἐκείνη, ἐκεῖνο](https://en.wiktionary.org/wiki/ἐκεῖνος#Declension) : that (one); (pl.) these
 - [ὅδε, ἥδε, τόδε](https://en.wiktionary.org/wiki/ὅδε#Declension) : this (one, as follows), (pl.) these
-- [οὕτος, αὕτη, τοῦτο](https://en.wiktionary.org/wiki/οὕτος#Declension) : this (one, already mentioned); (pl.) these
+- [οὗτος, αὕτη, τοῦτο](https://en.wiktionary.org/wiki/οὗτος#Declension) : this (one, already mentioned); (pl.) these
 
 ### Adjectives
 - [βραχύς, βραχεῖα, βραχύ](https://en.wiktionary.org/wiki/βραχύς#Declension) : short, brief
