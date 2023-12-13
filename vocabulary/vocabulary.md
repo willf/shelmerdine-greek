@@ -384,7 +384,7 @@
 
 ### Adverbs
 - [μόνον](https://en.wiktionary.org/wiki/μόνον#Adverb) : only
-- [εἴτα, ἔπειτα](https://en.wiktionary.org/wiki/εἴτα#Adverb) : then, next
+- [εἶτα, ἔπειτα](https://en.wiktionary.org/wiki/εἶτα#Adverb) : then, next
 - [μάλιστα](https://en.wiktionary.org/wiki/μάλιστα#Adverb) : very much, most; especially; certainly
 - [τῷ ὄντι](https://en.wiktionary.org/wiki/τῷ#Adverb) : in fact, really
 

@@ -64,12 +64,13 @@ for line in sys.stdin:
     part0 = parts[0]
     if " " in part0:
         part0 = part0.split(" ")[0]
+    lemma = part0.replace(" ", "_")
     if href_dict[pos]:
         part0_link = (
-            f"[{form}](https://en.wiktionary.org/wiki/{part0}#{href_dict[pos]})"
+            f"[{form}](https://en.wiktionary.org/wiki/{lemma}#{href_dict[pos]})"
         )
     else:
-        part0_link = f"[{form}](https://en.wiktionary.org/wiki/{part0})"
+        part0_link = f"[{form}](https://en.wiktionary.org/wiki/{lemma})"
     translation = fields[1]
     chapter = fields[2]
     if chapter != current_chapter:
