@@ -371,7 +371,7 @@
 
 ### Pronouns
 - [ἀλλήλων, ἀλλήλων, ἀλλήλων](https://en.wiktionary.org/wiki/ἀλλήλων#Pronoun) : one another, each other (reciprocal)
-- [έκεῖνος, ἐκείνη, ἐκεῖνο](https://en.wiktionary.org/wiki/έκεῖνος#Pronoun) : that (one); (pl.) these
+- [ἐκεῖνος, ἐκείνη, ἐκεῖνο](https://en.wiktionary.org/wiki/ἐκεῖνος#Pronoun) : that (one); (pl.) these
 - [ὅδε, ἥδε, τόδε](https://en.wiktionary.org/wiki/ὅδε#Pronoun) : this (one, as follows), (pl.) these
 - [οὕτος, αὕτη, τοῦτο](https://en.wiktionary.org/wiki/οὕτος#Pronoun) : this (one, already mentioned); (pl.) these
 
