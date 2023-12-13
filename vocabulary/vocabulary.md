@@ -379,7 +379,7 @@
 - [βραχύς, βραχεῖα, βραχύ](https://en.wiktionary.org/wiki/βραχύς#Declension) : short, brief
 - [ἡδύς, ἡδεῖα, ἡδύ](https://en.wiktionary.org/wiki/ἡδύς#Declension) : sweet, pleasant
 - [μόνος, μόνη, μόνον](https://en.wiktionary.org/wiki/μόνος#Declension) : alone, single
-- [νἐος, νέα, νέον](https://en.wiktionary.org/wiki/νἐος#Declension) : new; young
+- [νέος, νέα, νέον](https://en.wiktionary.org/wiki/νέος#Declension) : new; young
 - [ταχύς, ταχεῖα, ταχύ](https://en.wiktionary.org/wiki/ταχύς#Declension) : fast, quick, swift
 
 ### Adverbs
