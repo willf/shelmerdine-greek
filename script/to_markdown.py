@@ -62,8 +62,6 @@ for line in sys.stdin:
     pos = fields[3]
     parts = [x.strip() for x in form.split(",")]
     part0 = parts[0]
-    if " " in part0:
-        part0 = part0.split(" ")[0]
     lemma = part0.replace(" ", "_")
     if href_dict[pos]:
         part0_link = (

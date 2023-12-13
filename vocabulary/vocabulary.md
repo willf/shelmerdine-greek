@@ -37,9 +37,9 @@
 - [ἀλλά](https://en.wiktionary.org/wiki/ἀλλά#Conjunction) : but, however, nevertheless
 - [δέ](https://en.wiktionary.org/wiki/δέ#Conjunction) : and, but
 - [ἤ](https://en.wiktionary.org/wiki/ἤ#Conjunction) : or
-- [ἤ ... ἤ](https://en.wiktionary.org/wiki/ἤ#Conjunction) : either ... or
+- [ἤ ... ἤ](https://en.wiktionary.org/wiki/ἤ_..._ἤ#Conjunction) : either ... or
 - [καί](https://en.wiktionary.org/wiki/καί#Conjunction) : and
-- [καί ... καί](https://en.wiktionary.org/wiki/καί#Conjunction) : both ... and
+- [καί ... καί](https://en.wiktionary.org/wiki/καί_..._καί#Conjunction) : both ... and
 
 ### Interjections
 - [ὦ](https://en.wiktionary.org/wiki/ὦ#Interjection) : O!
@@ -66,13 +66,13 @@
 - [νῦν](https://en.wiktionary.org/wiki/νῦν#Adverb) : now
 
 ### Prepositions
-- [ἀπό (+ gen.)](https://en.wiktionary.org/wiki/ἀπό#Preposition) : from, away from, of
-- [εἰς (+ acc.)](https://en.wiktionary.org/wiki/εἰς#Preposition) : into, onto
-- [ἐκ (+ gen.)](https://en.wiktionary.org/wiki/ἐκ#Preposition) : out of, from
-- [ἐν (+ gen) ἐξ before a vowel](https://en.wiktionary.org/wiki/ἐν#Preposition) : in, on; (plural) among
-- [πρός (+ acc.)](https://en.wiktionary.org/wiki/πρός#Preposition) : to, toward; in relation to
-- [πρός (+ dat.)](https://en.wiktionary.org/wiki/πρός#Preposition) : near, at; in addition to
-- [πρός (+ gen.)](https://en.wiktionary.org/wiki/πρός#Preposition) : from; on the side of; in favor of
+- [ἀπό (+ gen.)](https://en.wiktionary.org/wiki/ἀπό_(+_gen.)#Preposition) : from, away from, of
+- [εἰς (+ acc.)](https://en.wiktionary.org/wiki/εἰς_(+_acc.)#Preposition) : into, onto
+- [ἐκ (+ gen.)](https://en.wiktionary.org/wiki/ἐκ_(+_gen.)#Preposition) : out of, from
+- [ἐν (+ gen) ἐξ before a vowel](https://en.wiktionary.org/wiki/ἐν_(+_gen)_ἐξ_before_a_vowel#Preposition) : in, on; (plural) among
+- [πρός (+ acc.)](https://en.wiktionary.org/wiki/πρός_(+_acc.)#Preposition) : to, toward; in relation to
+- [πρός (+ dat.)](https://en.wiktionary.org/wiki/πρός_(+_dat.)#Preposition) : near, at; in addition to
+- [πρός (+ gen.)](https://en.wiktionary.org/wiki/πρός_(+_gen.)#Preposition) : from; on the side of; in favor of
 
 ### Particles
 - [οὐ, οὐκ, οὐχ, οὔ](https://en.wiktionary.org/wiki/οὐ#Particle) : not
@@ -99,12 +99,12 @@
 - [κακῶς](https://en.wiktionary.org/wiki/κακῶς#Adverb) : badly
 
 ### Prepositions
-- [διἀ (+ acc.)](https://en.wiktionary.org/wiki/διἀ#Preposition) : because of, on account of
-- [διἀ (+ gen.)](https://en.wiktionary.org/wiki/διἀ#Preposition) : through
-- [μετά (+ acc.)](https://en.wiktionary.org/wiki/μετά#Preposition) : after
-- [μετά (+ gen.)](https://en.wiktionary.org/wiki/μετά#Preposition) : with
-- [περί (+ acc.)](https://en.wiktionary.org/wiki/περί#Preposition) : around
-- [περί (+ gen.)](https://en.wiktionary.org/wiki/περί#Preposition) : about, concerning
+- [διἀ (+ acc.)](https://en.wiktionary.org/wiki/διἀ_(+_acc.)#Preposition) : because of, on account of
+- [διἀ (+ gen.)](https://en.wiktionary.org/wiki/διἀ_(+_gen.)#Preposition) : through
+- [μετά (+ acc.)](https://en.wiktionary.org/wiki/μετά_(+_acc.)#Preposition) : after
+- [μετά (+ gen.)](https://en.wiktionary.org/wiki/μετά_(+_gen.)#Preposition) : with
+- [περί (+ acc.)](https://en.wiktionary.org/wiki/περί_(+_acc.)#Preposition) : around
+- [περί (+ gen.)](https://en.wiktionary.org/wiki/περί_(+_gen.)#Preposition) : about, concerning
 
 ## Chapter 6
 
@@ -130,13 +130,13 @@
 
 ### Conjunctions
 - [γἀρ](https://en.wiktionary.org/wiki/γἀρ#Conjunction) : for, because
-- [καί γάρ](https://en.wiktionary.org/wiki/καί#Conjunction) : for in fact
+- [καί γάρ](https://en.wiktionary.org/wiki/καί_γάρ#Conjunction) : for in fact
 - [μέν](https://en.wiktionary.org/wiki/μέν#Conjunction) : (contrast)
 - [οὐδέ](https://en.wiktionary.org/wiki/οὐδέ#Conjunction) : and not, but not, not even
-- [οὐδέ ... οὐδέ](https://en.wiktionary.org/wiki/οὐδέ#Conjunction) : neither ... nor
+- [οὐδέ ... οὐδέ](https://en.wiktionary.org/wiki/οὐδέ_..._οὐδέ#Conjunction) : neither ... nor
 - [τε](https://en.wiktionary.org/wiki/τε#Conjunction) : and
-- [τε ... καί](https://en.wiktionary.org/wiki/τε#Conjunction) : both ... and
-- [τε ... τε](https://en.wiktionary.org/wiki/τε#Conjunction) : both ... and
+- [τε ... καί](https://en.wiktionary.org/wiki/τε_..._καί#Conjunction) : both ... and
+- [τε ... τε](https://en.wiktionary.org/wiki/τε_..._τε#Conjunction) : both ... and
 
 ## Chapter 7
 
@@ -162,7 +162,7 @@
 - [τότε](https://en.wiktionary.org/wiki/τότε#Adverb) : then, at that time
 
 ### Prepositions
-- [σὖν (+ dat.)](https://en.wiktionary.org/wiki/σὖν#Preposition) : with
+- [σὖν (+ dat.)](https://en.wiktionary.org/wiki/σὖν_(+_dat.)#Preposition) : with
 
 ### Particles
 - [οὖν](https://en.wiktionary.org/wiki/οὖν#Particle) : so, therefore, in fact
@@ -174,7 +174,7 @@
 - [ἐθέλω, ἐθελήσομαι, ἠθέλησα](https://en.wiktionary.org/wiki/ἐθέλω#Inflection) : will, wish
 - [κελεύω, κελεύσω, ἐκέλευσα](https://en.wiktionary.org/wiki/κελεύω#Inflection) : command, order
 - [μέλλω, μελλήσω, ἐμέλλησα](https://en.wiktionary.org/wiki/μέλλω#Inflection) : intend, be about to
-- [οἷός τέ εἰμι](https://en.wiktionary.org/wiki/οἷός#Inflection) : am such as
+- [οἷός τέ εἰμι](https://en.wiktionary.org/wiki/οἷός_τέ_εἰμι#Inflection) : am such as
 
 ### Nouns
 - [ἀρχή, ἀρχῆς, ἡ](https://en.wiktionary.org/wiki/ἀρχή#Declension) : rule; empire; province; beginning
@@ -236,7 +236,7 @@
 
 ### Conjunctions
 - [μηδέ](https://en.wiktionary.org/wiki/μηδέ#Conjunction) : and not, but not; nor; not even
-- [μήτε ... μήτε](https://en.wiktionary.org/wiki/μήτε#Conjunction) : neither ... nor
+- [μήτε ... μήτε](https://en.wiktionary.org/wiki/μήτε_..._μήτε#Conjunction) : neither ... nor
 
 ## Chapter 10
 
@@ -258,8 +258,8 @@
 - [σύμμαχος, συμμάχου, ὁ/ἡ](https://en.wiktionary.org/wiki/σύμμαχος#Declension) : ally
 
 ### Prepositions
-- [κατά (+ gen.)](https://en.wiktionary.org/wiki/κατά#Preposition) : down from, down upon
-- [κατά (+ acc.)](https://en.wiktionary.org/wiki/κατά#Preposition) : over, down along; according to; against, opposite
+- [κατά (+ gen.)](https://en.wiktionary.org/wiki/κατά_(+_gen.)#Preposition) : down from, down upon
+- [κατά (+ acc.)](https://en.wiktionary.org/wiki/κατά_(+_acc.)#Preposition) : over, down along; according to; against, opposite
 
 ### Conjunctions
 - [εἰ](https://en.wiktionary.org/wiki/εἰ#Conjunction) : if
@@ -268,7 +268,7 @@
 - [ὅτι](https://en.wiktionary.org/wiki/ὅτι#Conjunction) : because
 
 ### Particles
-- [ἄν (postpos.)](https://en.wiktionary.org/wiki/ἄν#Particle) : (+ indic.) marks irrealis
+- [ἄν (postpos.)](https://en.wiktionary.org/wiki/ἄν_(postpos.)#Particle) : (+ indic.) marks irrealis
 
 ## Chapter 11
 
@@ -298,9 +298,9 @@
 - [ψευδής, ψευδής, ψευδές](https://en.wiktionary.org/wiki/ψευδής#Declension) : false
 
 ### Prepositions
-- [ἐπί (+ gen.)](https://en.wiktionary.org/wiki/ἐπί#Preposition) : on, upon
-- [ἐπί (+ dat.)](https://en.wiktionary.org/wiki/ἐπί#Preposition) : on, at, near
-- [ἐπί (+ acc.)](https://en.wiktionary.org/wiki/ἐπί#Preposition) : toward, against; upon, on to, up to
+- [ἐπί (+ gen.)](https://en.wiktionary.org/wiki/ἐπί_(+_gen.)#Preposition) : on, upon
+- [ἐπί (+ dat.)](https://en.wiktionary.org/wiki/ἐπί_(+_dat.)#Preposition) : on, at, near
+- [ἐπί (+ acc.)](https://en.wiktionary.org/wiki/ἐπί_(+_acc.)#Preposition) : toward, against; upon, on to, up to
 
 ## Chapter 12
 
@@ -313,7 +313,7 @@
 - [μάχομαι, μαχήσομαι, ἐμαχησάμην](https://en.wiktionary.org/wiki/μάχομαι#Inflection) : fight (against)
 - [νομίζω, νομιῶ, ἐνόμισα](https://en.wiktionary.org/wiki/νομίζω#Inflection) : think, believe in
 - [ὁμολογέω, ὁμολογήσω, ὡμολόγησα](https://en.wiktionary.org/wiki/ὁμολογέω#Inflection) : agree; admit
-- [χἀριν ἔχω](https://en.wiktionary.org/wiki/χἀριν#Inflection) : be grateful, give thanks
+- [χἀριν ἔχω](https://en.wiktionary.org/wiki/χἀριν_ἔχω#Inflection) : be grateful, give thanks
 
 ### Nouns
 - [ἄστυ, ἄστεως, τό](https://en.wiktionary.org/wiki/ἄστυ#Declension) : town
@@ -386,7 +386,7 @@
 - [μόνον](https://en.wiktionary.org/wiki/μόνον#Adverb) : only
 - [εἶτα, ἔπειτα](https://en.wiktionary.org/wiki/εἶτα#Adverb) : then, next
 - [μάλιστα](https://en.wiktionary.org/wiki/μάλιστα#Adverb) : very much, most; especially; certainly
-- [τῷ ὄντι](https://en.wiktionary.org/wiki/τῷ#Adverb) : in fact, really
+- [τῷ ὄντι](https://en.wiktionary.org/wiki/τῷ_ὄντι#Adverb) : in fact, really
 
 ### Particles
 - [δή](https://en.wiktionary.org/wiki/δή#Particle) : indeed, really
