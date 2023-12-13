@@ -378,12 +378,12 @@
 ### Adjectives
 - [βραχύς, βραχεῖα, βραχύ](https://en.wiktionary.org/wiki/βραχύς#Declension) : short, brief
 - [ἡδύς, ἡδεῖα, ἡδύ](https://en.wiktionary.org/wiki/ἡδύς#Declension) : sweet, pleasant
-- [μὀνος, μόνη, μόνον](https://en.wiktionary.org/wiki/μὀνος#Declension) : alone, single
+- [μόνος, μόνη, μόνον](https://en.wiktionary.org/wiki/μόνος#Declension) : alone, single
 - [νἐος, νέα, νέον](https://en.wiktionary.org/wiki/νἐος#Declension) : new; young
 - [ταχύς, ταχεῖα, ταχύ](https://en.wiktionary.org/wiki/ταχύς#Declension) : fast, quick, swift
 
 ### Adverbs
-- [μὀνον](https://en.wiktionary.org/wiki/μὀνον#Adverb) : only
+- [μόνον](https://en.wiktionary.org/wiki/μόνον#Adverb) : only
 - [δήπου](https://en.wiktionary.org/wiki/δήπου#Adverb) : indeed, really
 - [εἴτα, ἔπειτα](https://en.wiktionary.org/wiki/εἴτα#Adverb) : then, next
 - [μάλιστα](https://en.wiktionary.org/wiki/μάλιστα#Adverb) : very much, most; especially; certainly
