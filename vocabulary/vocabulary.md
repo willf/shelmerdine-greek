@@ -357,3 +357,34 @@
 ### Adverbs
 - [εὐθύς](https://en.wiktionary.org/wiki/εὐθύς#Adverb) : immediately
 - [ποῦ](https://en.wiktionary.org/wiki/ποῦ#Adverb) : where
+
+## Chapter 14
+
+### Verbs
+- [τπέφω, θρἐψω, ἔθρεψα](https://en.wiktionary.org/wiki/τπέφω#Inflection) : nourish, feed; rear,educate
+
+### Nouns
+- [ἀλήθεια, ἀληθείας, ἡ](https://en.wiktionary.org/wiki/ἀλήθεια#Declension) : truth
+- [δεσπότης, δεσπότου, ὁ](https://en.wiktionary.org/wiki/δεσπότης#Declension) : master, lord
+- [τέχνη, τέχνης, ἡ](https://en.wiktionary.org/wiki/τέχνη#Declension) : art, skill,craft
+- [φόβος, φόβου, ὁ](https://en.wiktionary.org/wiki/φόβος#Declension) : fear,panic
+
+### Pronouns
+- [ἀλλήλων, ἀλλήλων, ἀλλήλων](https://en.wiktionary.org/wiki/ἀλλήλων#Pronoun) : one another, each other (reciprocal)
+- [έκεῖνος, ἐκείνη, ἐκεῖνο](https://en.wiktionary.org/wiki/έκεῖνος#Pronoun) : that (one); (pl.) these
+- [ὅδε, ἥδε, τόδε](https://en.wiktionary.org/wiki/ὅδε#Pronoun) : this (one, as follows), (pl.) these
+- [οὕτος, αὕτη, τοῦτο](https://en.wiktionary.org/wiki/οὕτος#Pronoun) : this (one, already mentioned); (pl.) these
+
+### Adjectives
+- [βραχύς, βραχεῖα, βραχύ](https://en.wiktionary.org/wiki/βραχύς#Declension) : short, brief
+- [ἡδύς, ἡδεῖα, ἡδύ](https://en.wiktionary.org/wiki/ἡδύς#Declension) : sweet, pleasant
+- [μὀνος, μόνη, μόνον](https://en.wiktionary.org/wiki/μὀνος#Declension) : alone, single
+- [νἐος, νέα, νέον](https://en.wiktionary.org/wiki/νἐος#Declension) : new; young
+- [ταχύς, ταχεῖα, ταχύ](https://en.wiktionary.org/wiki/ταχύς#Declension) : fast, quick, swift
+
+### Adverbs
+- [μὀνον](https://en.wiktionary.org/wiki/μὀνον#Adverb) : only
+- [δήπου](https://en.wiktionary.org/wiki/δήπου#Adverb) : indeed, really
+- [εἴτα, ἔπειτα](https://en.wiktionary.org/wiki/εἴτα#Adverb) : then, next
+- [μάλιστα](https://en.wiktionary.org/wiki/μάλιστα#Adverb) : very much, most; especially; certainly
+- [τῷ ὄντι](https://en.wiktionary.org/wiki/τῷ#Adverb) : in fact, really
