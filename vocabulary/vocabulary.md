@@ -361,7 +361,7 @@
 ## Chapter 14
 
 ### Verbs
-- [τπέφω, θρἐψω, ἔθρεψα](https://en.wiktionary.org/wiki/τπέφω#Inflection) : nourish, feed; rear,educate
+- [τρέφω, θρέψω, ἔθρεψα](https://en.wiktionary.org/wiki/τρέφω#Inflection) : nourish, feed; rear,educate
 
 ### Nouns
 - [ἀλήθεια, ἀληθείας, ἡ](https://en.wiktionary.org/wiki/ἀλήθεια#Declension) : truth
