@@ -389,4 +389,4 @@
 - [τῷ ὄντι](https://en.wiktionary.org/wiki/τῷ_ὄντι#Adverb) : in fact, really
 
 ### Particles
-- [δή](https://en.wiktionary.org/wiki/δή#Particle) : indeed, really
+- [δή (postpos.)](https://en.wiktionary.org/wiki/δή_#Particle) : indeed, really
