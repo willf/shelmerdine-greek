@@ -66,13 +66,13 @@
 - [νῦν](https://en.wiktionary.org/wiki/νῦν#Adverb) : now
 
 ### Prepositions
-- [ἀπό (+ gen.)](https://en.wiktionary.org/wiki/ἀπό_(+_gen.)#Preposition) : from, away from, of
-- [εἰς (+ acc.)](https://en.wiktionary.org/wiki/εἰς_(+_acc.)#Preposition) : into, onto
-- [ἐκ (+ gen.)](https://en.wiktionary.org/wiki/ἐκ_(+_gen.)#Preposition) : out of, from
-- [ἐν (+ gen) ἐξ before a vowel](https://en.wiktionary.org/wiki/ἐν_(+_gen)_ἐξ_before_a_vowel#Preposition) : in, on; (plural) among
-- [πρός (+ acc.)](https://en.wiktionary.org/wiki/πρός_(+_acc.)#Preposition) : to, toward; in relation to
-- [πρός (+ dat.)](https://en.wiktionary.org/wiki/πρός_(+_dat.)#Preposition) : near, at; in addition to
-- [πρός (+ gen.)](https://en.wiktionary.org/wiki/πρός_(+_gen.)#Preposition) : from; on the side of; in favor of
+- [ἀπό (+ gen.)](https://en.wiktionary.org/wiki/ἀπό_#Preposition) : from, away from, of
+- [εἰς (+ acc.)](https://en.wiktionary.org/wiki/εἰς_#Preposition) : into, onto
+- [ἐκ (+ gen.)](https://en.wiktionary.org/wiki/ἐκ_#Preposition) : out of, from
+- [ἐν (+ gen) ἐξ before a vowel](https://en.wiktionary.org/wiki/ἐν_#Preposition) : in, on; (plural) among
+- [πρός (+ acc.)](https://en.wiktionary.org/wiki/πρός_#Preposition) : to, toward; in relation to
+- [πρός (+ dat.)](https://en.wiktionary.org/wiki/πρός_#Preposition) : near, at; in addition to
+- [πρός (+ gen.)](https://en.wiktionary.org/wiki/πρός_#Preposition) : from; on the side of; in favor of
 
 ### Particles
 - [οὐ, οὐκ, οὐχ, οὔ](https://en.wiktionary.org/wiki/οὐ#Particle) : not
@@ -99,12 +99,12 @@
 - [κακῶς](https://en.wiktionary.org/wiki/κακῶς#Adverb) : badly
 
 ### Prepositions
-- [διἀ (+ acc.)](https://en.wiktionary.org/wiki/διἀ_(+_acc.)#Preposition) : because of, on account of
-- [διἀ (+ gen.)](https://en.wiktionary.org/wiki/διἀ_(+_gen.)#Preposition) : through
-- [μετά (+ acc.)](https://en.wiktionary.org/wiki/μετά_(+_acc.)#Preposition) : after
-- [μετά (+ gen.)](https://en.wiktionary.org/wiki/μετά_(+_gen.)#Preposition) : with
-- [περί (+ acc.)](https://en.wiktionary.org/wiki/περί_(+_acc.)#Preposition) : around
-- [περί (+ gen.)](https://en.wiktionary.org/wiki/περί_(+_gen.)#Preposition) : about, concerning
+- [διἀ (+ acc.)](https://en.wiktionary.org/wiki/διἀ_#Preposition) : because of, on account of
+- [διἀ (+ gen.)](https://en.wiktionary.org/wiki/διἀ_#Preposition) : through
+- [μετά (+ acc.)](https://en.wiktionary.org/wiki/μετά_#Preposition) : after
+- [μετά (+ gen.)](https://en.wiktionary.org/wiki/μετά_#Preposition) : with
+- [περί (+ acc.)](https://en.wiktionary.org/wiki/περί_#Preposition) : around
+- [περί (+ gen.)](https://en.wiktionary.org/wiki/περί_#Preposition) : about, concerning
 
 ## Chapter 6
 
@@ -162,7 +162,7 @@
 - [τότε](https://en.wiktionary.org/wiki/τότε#Adverb) : then, at that time
 
 ### Prepositions
-- [σὖν (+ dat.)](https://en.wiktionary.org/wiki/σὖν_(+_dat.)#Preposition) : with
+- [σὖν (+ dat.)](https://en.wiktionary.org/wiki/σὖν_#Preposition) : with
 
 ### Particles
 - [οὖν](https://en.wiktionary.org/wiki/οὖν#Particle) : so, therefore, in fact
@@ -258,8 +258,8 @@
 - [σύμμαχος, συμμάχου, ὁ/ἡ](https://en.wiktionary.org/wiki/σύμμαχος#Declension) : ally
 
 ### Prepositions
-- [κατά (+ gen.)](https://en.wiktionary.org/wiki/κατά_(+_gen.)#Preposition) : down from, down upon
-- [κατά (+ acc.)](https://en.wiktionary.org/wiki/κατά_(+_acc.)#Preposition) : over, down along; according to; against, opposite
+- [κατά (+ gen.)](https://en.wiktionary.org/wiki/κατά_#Preposition) : down from, down upon
+- [κατά (+ acc.)](https://en.wiktionary.org/wiki/κατά_#Preposition) : over, down along; according to; against, opposite
 
 ### Conjunctions
 - [εἰ](https://en.wiktionary.org/wiki/εἰ#Conjunction) : if
@@ -268,7 +268,7 @@
 - [ὅτι](https://en.wiktionary.org/wiki/ὅτι#Conjunction) : because
 
 ### Particles
-- [ἄν (postpos.)](https://en.wiktionary.org/wiki/ἄν_(postpos.)#Particle) : (+ indic.) marks irrealis
+- [ἄν (postpos.)](https://en.wiktionary.org/wiki/ἄν_#Particle) : (+ indic.) marks irrealis
 
 ## Chapter 11
 
@@ -298,9 +298,9 @@
 - [ψευδής, ψευδής, ψευδές](https://en.wiktionary.org/wiki/ψευδής#Declension) : false
 
 ### Prepositions
-- [ἐπί (+ gen.)](https://en.wiktionary.org/wiki/ἐπί_(+_gen.)#Preposition) : on, upon
-- [ἐπί (+ dat.)](https://en.wiktionary.org/wiki/ἐπί_(+_dat.)#Preposition) : on, at, near
-- [ἐπί (+ acc.)](https://en.wiktionary.org/wiki/ἐπί_(+_acc.)#Preposition) : toward, against; upon, on to, up to
+- [ἐπί (+ gen.)](https://en.wiktionary.org/wiki/ἐπί_#Preposition) : on, upon
+- [ἐπί (+ dat.)](https://en.wiktionary.org/wiki/ἐπί_#Preposition) : on, at, near
+- [ἐπί (+ acc.)](https://en.wiktionary.org/wiki/ἐπί_#Preposition) : toward, against; upon, on to, up to
 
 ## Chapter 12
 

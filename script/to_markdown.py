@@ -63,6 +63,8 @@ for line in sys.stdin:
     parts = [x.strip() for x in form.split(",")]
     part0 = parts[0]
     lemma = part0.replace(" ", "_")
+    # remove any parentheticals from the lemma
+    lemma = lemma.split("(")[0].strip()
     if href_dict[pos]:
         part0_link = (
             f"[{form}](https://en.wiktionary.org/wiki/{lemma}#{href_dict[pos]})"
