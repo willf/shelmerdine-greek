@@ -37,9 +37,9 @@
 - [ἀλλά](https://en.wiktionary.org/wiki/ἀλλά#Conjunction) : but, however, nevertheless
 - [δέ](https://en.wiktionary.org/wiki/δέ#Conjunction) : and, but
 - [ἤ](https://en.wiktionary.org/wiki/ἤ#Conjunction) : or
-- [ἤ ... ἤ](https://en.wiktionary.org/wiki/ἤ_..._ἤ#Conjunction) : either ... or
+- [ἤ ... ἤ](https://en.wiktionary.org/wiki/ἤ_#Conjunction) : either ... or
 - [καί](https://en.wiktionary.org/wiki/καί#Conjunction) : and
-- [καί ... καί](https://en.wiktionary.org/wiki/καί_..._καί#Conjunction) : both ... and
+- [καί ... καί](https://en.wiktionary.org/wiki/καί_#Conjunction) : both ... and
 
 ### Interjections
 - [ὦ](https://en.wiktionary.org/wiki/ὦ#Interjection) : O!
@@ -133,10 +133,10 @@
 - [καί γάρ](https://en.wiktionary.org/wiki/καί_γάρ#Conjunction) : for in fact
 - [μέν](https://en.wiktionary.org/wiki/μέν#Conjunction) : (contrast)
 - [οὐδέ](https://en.wiktionary.org/wiki/οὐδέ#Conjunction) : and not, but not, not even
-- [οὐδέ ... οὐδέ](https://en.wiktionary.org/wiki/οὐδέ_..._οὐδέ#Conjunction) : neither ... nor
+- [οὐδέ ... οὐδέ](https://en.wiktionary.org/wiki/οὐδέ_#Conjunction) : neither ... nor
 - [τε](https://en.wiktionary.org/wiki/τε#Conjunction) : and
-- [τε ... καί](https://en.wiktionary.org/wiki/τε_..._καί#Conjunction) : both ... and
-- [τε ... τε](https://en.wiktionary.org/wiki/τε_..._τε#Conjunction) : both ... and
+- [τε ... καί](https://en.wiktionary.org/wiki/τε_#Conjunction) : both ... and
+- [τε ... τε](https://en.wiktionary.org/wiki/τε_#Conjunction) : both ... and
 
 ## Chapter 7
 
@@ -236,7 +236,7 @@
 
 ### Conjunctions
 - [μηδέ](https://en.wiktionary.org/wiki/μηδέ#Conjunction) : and not, but not; nor; not even
-- [μήτε ... μήτε](https://en.wiktionary.org/wiki/μήτε_..._μήτε#Conjunction) : neither ... nor
+- [μήτε ... μήτε](https://en.wiktionary.org/wiki/μήτε_#Conjunction) : neither ... nor
 
 ## Chapter 10
 
