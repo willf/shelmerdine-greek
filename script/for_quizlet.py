@@ -36,7 +36,7 @@ for line in sys.stdin:
             out.close()
         current_chapter = chapter
         current_chapter_padded = "{:02d}".format(int(current_chapter))
-        filename = f"chapter_{current_chapter_padded}.tsv"
+        filename = f"for_quizlet/chapter_{current_chapter_padded}.tsv"
         print(f"writing to {filename}")
         out = open(filename, "w")
     out.write(f"{form}\t{translation} ({pos.lower()})\n")
