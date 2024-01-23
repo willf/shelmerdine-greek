@@ -8,7 +8,7 @@
 # - [γράφω, γράψω, ἔγραψα](https://en.wiktionary.org/wiki/γράφω#Inflection): write
 # etc.
 # The script is run from the command line like this
-# cat verbs.md | python3 verbs_tsv_to_markdown.py Verbs > verbs.md
+# cat data/words.tsv | python3 script/collate.py | python3 script/to_markdown.py > vocabulary/vocabulary.md
 
 
 import sys

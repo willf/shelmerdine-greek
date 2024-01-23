@@ -12,8 +12,7 @@
 #
 # run this script like this:
 # mkdir -p for_quizlet
-# cd for_quizlet
-# cat ../data/words.tsv | python3 ../script/for_quizlet.py
+# cat data/words.tsv | python3 script/collate.py | python3 script/for_quizlet.py
 import sys
 
 header = True
