@@ -397,7 +397,7 @@
 - [ἀγγέλλω, ἀγγελῶ, ἤγγειλα, ..., ἠγγέλθην](https://en.wiktionary.org/wiki/ἀγγέλλω#Inflection) : announce, report, tell
 - [διαφέρω, διοίσω, διήνεγκα, ..., διήνεγκον](https://en.wiktionary.org/wiki/διαφέρω#Inflection) : go throuh (with), endure; (intrans). differ from (+ gen.), make a difference to (+ dat.)
 - [θαυμάζω, θαυμάσομαι, ἐθαύμασα, ..., ἐθαυμάσθην](https://en.wiktionary.org/wiki/θαυμάζω#Inflection) : admire, wonder at
-- [πάπρεμι, παρέσομαι](https://en.wiktionary.org/wiki/πάπρεμι#Inflection) : be present
+- [πάρειμι, παρέσομαι](https://en.wiktionary.org/wiki/πάρειμι#Inflection) : be present
 - [πάσχω, πεισοῦμαι, ἔπαθον](https://en.wiktionary.org/wiki/πάσχω#Inflection) : suffer; experience
 - [πίπτω, πεσοῦμαι, ἔπεσον](https://en.wiktionary.org/wiki/πίπτω#Inflection) : fall, fall down
 
