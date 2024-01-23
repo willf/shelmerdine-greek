@@ -405,7 +405,7 @@
 - [γένος, γένους, τό](https://en.wiktionary.org/wiki/γένος#Declension) : race, family; kind
 - [ἥλιος, ἡλίου, ὁ](https://en.wiktionary.org/wiki/ἥλιος#Declension) : sun
 - [καρδία, καρδίας, ἡ](https://en.wiktionary.org/wiki/καρδία#Declension) : heart
-- [λιθος, λίθου, ὁ](https://en.wiktionary.org/wiki/λιθος#Declension) : stone, rock
+- [λίθος, λίθου, ὁ](https://en.wiktionary.org/wiki/λίθος#Declension) : stone, rock
 - [τρόπος, τρόπου, ὁ](https://en.wiktionary.org/wiki/τρόπος#Declension) : way, manner; turn; habit
 
 ### Adjectives
