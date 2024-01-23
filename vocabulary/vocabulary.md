@@ -390,3 +390,34 @@
 
 ### Particles
 - [δή (postpos.)](https://en.wiktionary.org/wiki/δή_#Particle) : indeed, really
+
+## Chapter 15
+
+### Verbs
+- [άγγέλλω, ἀγγελῶ, ἤγγειλα, ..., ἠγγέλθην](https://en.wiktionary.org/wiki/άγγέλλω#Inflection) : announce, report, tell
+- [διαφέρω, διοίσω, διήνεγκα, ..., διήνεγκον](https://en.wiktionary.org/wiki/διαφέρω#Inflection) : go throuh (with), endure; (intrans). differ from (+ gen.), make a difference to (+ dat.)
+- [θαυμάζω, θαυμάσομαι, ἐθαύμασα, ..., ἐθαυμάσθην](https://en.wiktionary.org/wiki/θαυμάζω#Inflection) : admire, wonder at
+- [πάπρεμι, παρέσομαι](https://en.wiktionary.org/wiki/πάπρεμι#Inflection) : be present
+- [πάσχω, πεισοῦμαι, ἔπαθον](https://en.wiktionary.org/wiki/πάσχω#Inflection) : suffer; experience
+- [πίπτω, πεσοῦμαι, ἔπεσον](https://en.wiktionary.org/wiki/πίπτω#Inflection) : fall, fall down
+
+### Nouns
+- [γένος, γένους, τό](https://en.wiktionary.org/wiki/γένος#Declension) : race, family; kind
+- [ἥλιος, ἡλίου, ὁ](https://en.wiktionary.org/wiki/ἥλιος#Declension) : sun
+- [καρδία, καρδίας, ἡ](https://en.wiktionary.org/wiki/καρδία#Declension) : heart
+- [λιθος, λίθου, ὁ](https://en.wiktionary.org/wiki/λιθος#Declension) : stone, rock
+- [τρόπος, τρόπου, ὁ](https://en.wiktionary.org/wiki/τρόπος#Declension) : way, manner; turn; habit
+
+### Adjectives
+- [δεινός, δεινή, δεινόν](https://en.wiktionary.org/wiki/δεινός#Declension) : clever (at), skillful; terrible; awesome
+- [Λακεδαιμόνιος, Λακεδαιμονία, Λακεδαιμόνιον](https://en.wiktionary.org/wiki/Λακεδαιμόνιος#Declension) : Spartan
+- [ῥᾴδιος, ῥᾴδια, ῥᾴδιον](https://en.wiktionary.org/wiki/ῥᾴδιος#Declension) : easy
+
+### Adverbs
+- [τρόπον (acc.)](https://en.wiktionary.org/wiki/τρόπον_#Adverb) : in some way
+- [ἔτι](https://en.wiktionary.org/wiki/ἔτι#Adverb) : still, yet
+
+### Prepositions
+- [ὑπό (+ gen.)](https://en.wiktionary.org/wiki/ὑπό_#Preposition) : (from) under; by (agent); because of
+- [ὑπό (+ dat.)](https://en.wiktionary.org/wiki/ὑπό_#Preposition) : under, beneath; at the foot of
+- [ὑπό (+ acc.)](https://en.wiktionary.org/wiki/ὑπό_#Preposition) : (down) under
