@@ -421,3 +421,31 @@
 - [ὑπό (+ gen.)](https://en.wiktionary.org/wiki/ὑπό_#Preposition) : (from) under; by (agent); because of
 - [ὑπό (+ dat.)](https://en.wiktionary.org/wiki/ὑπό_#Preposition) : under, beneath; at the foot of
 - [ὑπό (+ acc.)](https://en.wiktionary.org/wiki/ὑπό_#Preposition) : (down) under
+
+## Chapter 16
+
+### Verbs
+- [αἱρέω ,αιρήσω , εἷλον (stem ἑλ-), ... ᾑρέθην](https://en.wiktionary.org/wiki/αἱρέω#Inflection) : take, seize; (mid.) choose
+- [αἰσθάνομαι, αἰσθήσομαι, ᾐσθόμην](https://en.wiktionary.org/wiki/αἰσθάνομαι#Inflection) : perceive
+- [ἀποκρίνομαι, ἀποκρινοῦμαι, ἀπεκρινάμην, ..., ἀπεκρίθην](https://en.wiktionary.org/wiki/ἀποκρίνομαι#Inflection) : answer
+- [γράφομαι](https://en.wiktionary.org/wiki/γράφομαι#Inflection) : prosecute (middle of γράφω)
+- [ἐπιλανθάνομαι, ἐπιλήσομαι, ἐπελαθόμην (+ gen.)](https://en.wiktionary.org/wiki/ἐπιλανθάνομαι#Inflection) : forget
+- [κρίνω, κρινῶ, ἔκρινα, ..., ἐκρίθην](https://en.wiktionary.org/wiki/κρίνω#Inflection) : judge, decide;
+- [πείθομαι, πεισομαι, ἐπιθόμην (+ dat.)](https://en.wiktionary.org/wiki/πείθομαι#Inflection) : obey (middle of πείθω)
+- [πορεύω, πορεύσω, ἐπόρευσα, ..., ἐπορεύθην](https://en.wiktionary.org/wiki/πορεύω#Inflection) : convey, carry; (mid.) march, journey
+- [φοβέω, φοβήσω, ἐφόβησα, ..., ἐφοβήθην](https://en.wiktionary.org/wiki/φοβέω#Inflection) : scare, put to flight; (m-p) fear, be afraid of, flee (in fear)
+
+### Nouns
+- [Ζεύς, Διός, ὁ](https://en.wiktionary.org/wiki/Ζεύς#Declension) : Zeus
+- [ναῦς, νεώς, ἡ](https://en.wiktionary.org/wiki/ναῦς#Declension) : ship
+- [ὄρος, ὄρους, τό](https://en.wiktionary.org/wiki/ὄρος#Declension) : mountain, hill
+- [πόνος, πόνου, ὁ](https://en.wiktionary.org/wiki/πόνος#Declension) : work, labor; stress, trouble, pain
+
+### Adjectives
+- [ἰσχυρός, ἰσχυρά, ἰσχυρός](https://en.wiktionary.org/wiki/ἰσχυρός#Declension) : strong
+- [ὀλίγος, ὀλίγη, ὀλίγον](https://en.wiktionary.org/wiki/ὀλίγος#Declension) : little, few, small
+- [φίλιος, φίλια, φίλιον](https://en.wiktionary.org/wiki/φίλιος#Declension) : friendly
+
+### Conjunctions
+- [ὅτι](https://en.wiktionary.org/wiki/ὅτι#Conjunction) : that
+- [ὡς](https://en.wiktionary.org/wiki/ὡς#Conjunction) : that
