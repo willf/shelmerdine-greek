@@ -466,7 +466,7 @@
 - [χρή (impers.)](https://en.wiktionary.org/wiki/χρή_#Inflection) : it is necessary, it is right; one ought
 
 ### Nouns
-- [άρετή, ἀρετῆς, ἡ](https://en.wiktionary.org/wiki/άρετή#Declension) : excellence; virtue; bravery
+- [ἀρετή, ἀρετῆς, ἡ](https://en.wiktionary.org/wiki/ἀρετή#Declension) : excellence; virtue; bravery
 - [κίωδυνος, κινδύνου, ὁ](https://en.wiktionary.org/wiki/κίωδυνος#Declension) : danger
 - [κριτἠς, κριτοῦ, ὁ](https://en.wiktionary.org/wiki/κριτἠς#Declension) : judge
 - [πλῆθος, πλήθους, τό](https://en.wiktionary.org/wiki/πλῆθος#Declension) : crowd; number, amount
