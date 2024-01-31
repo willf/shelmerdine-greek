@@ -476,4 +476,4 @@
 - [πολλάκις](https://en.wiktionary.org/wiki/πολλάκις#Adverb) : often
 
 ### Prepositions
-- [πρὀ (+ gen.)](https://en.wiktionary.org/wiki/πρὀ_#Preposition) : before, in front of
+- [πρό (+ gen.)](https://en.wiktionary.org/wiki/πρό_#Preposition) : before, in front of
