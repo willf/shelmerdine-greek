@@ -458,7 +458,7 @@
 - [δίκην δίδωμι](https://en.wiktionary.org/wiki/δίκην_δίδωμι#Inflection) : pay a penalty
 - [ἔξεστι (+ dat.)](https://en.wiktionary.org/wiki/ἔξεστι_#Inflection) : it is possible (for)
 - [ἵημι, ἤσω, -ῆκα, ..., εἵθην](https://en.wiktionary.org/wiki/ἵημι#Inflection) : throw; throw at (+ gen.); utter (words)
-- [αφίημι, ἀφήσω, ἀφῆκα, ..., ἀφέθην](https://en.wiktionary.org/wiki/αφίημι#Inflection) : throw away; send away, let go, get rid of
+- [ἀφίημι, ἀφήσω, ἀφῆκα, ..., ἀφέθην](https://en.wiktionary.org/wiki/ἀφίημι#Inflection) : throw away; send away, let go, get rid of
 - [ἵστημι, στήσω, ἔστησα (trans) / ἔστην (intrans.), ..., ἐστάθην](https://en.wiktionary.org/wiki/ἵστημι#Inflection) : (trans). make stand, set, place; appoint establish; (intrans.) stand
 - [τίθημι, θήσω, ἔθηκα, ..., ἐτέθην](https://en.wiktionary.org/wiki/τίθημι#Inflection) : put, place; assign, award; establish, make
 - [φημί, φήσω, ἔφησα/ἔφην, ..., ἐρρήθην](https://en.wiktionary.org/wiki/φημί#Inflection) : say, assert
