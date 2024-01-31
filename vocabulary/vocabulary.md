@@ -449,3 +449,31 @@
 ### Conjunctions
 - [ὅτι](https://en.wiktionary.org/wiki/ὅτι#Conjunction) : that
 - [ὡς](https://en.wiktionary.org/wiki/ὡς#Conjunction) : that
+
+## Chapter 17
+
+### Verbs
+- [δεῖ ( impf. ἔδει) (impers.)](https://en.wiktionary.org/wiki/δεῖ_#Inflection) : it is necessary, one must
+- [δίδωμι, δώσω, ἔδωκα, ..., ἐδόθην](https://en.wiktionary.org/wiki/δίδωμι#Inflection) : give, grant
+- [δίκην δίδωμι](https://en.wiktionary.org/wiki/δίκην_δίδωμι#Inflection) : pay a penalty
+- [ἔξεστι (+ dat.)](https://en.wiktionary.org/wiki/ἔξεστι_#Inflection) : it is possible (for)
+- [ἵημι, ἤσω, -ῆκα, ..., εἵθην](https://en.wiktionary.org/wiki/ἵημι#Inflection) : throw; throw at (+ gen.); utter (words)
+- [αφίημι, ἀφήσω, ἀφῆκα, ..., ἀφέθην](https://en.wiktionary.org/wiki/αφίημι#Inflection) : throw away; send away, let go, get rid of
+- [ἵστημι, στήσω, ἔστησα (trans) / ἔστην (intrans.), ..., ἐστάθην](https://en.wiktionary.org/wiki/ἵστημι#Inflection) : (trans). make stand, set, place; appoint establish; (intrans.) stand
+- [τίθημι, θήσω, ἔθηκα, ..., ἐτέθην](https://en.wiktionary.org/wiki/τίθημι#Inflection) : put, place; assign, award; establish, make
+- [φημί, φήσω, ἔφησα/ἔφην, ..., ἐρρήθην](https://en.wiktionary.org/wiki/φημί#Inflection) : say, assert
+- [οὔ φημι](https://en.wiktionary.org/wiki/οὔ_φημι#Inflection) : say not, deny
+- [χρή (impers.)](https://en.wiktionary.org/wiki/χρή_#Inflection) : it is necessary, it is right; one ought
+
+### Nouns
+- [άρετή, ἀρετῆς, ἡ](https://en.wiktionary.org/wiki/άρετή#Declension) : excellence; virtue; bravery
+- [κίωδυνος, κινδύνου, ὁ](https://en.wiktionary.org/wiki/κίωδυνος#Declension) : danger
+- [κριτἠς, κριτοῦ, ὁ](https://en.wiktionary.org/wiki/κριτἠς#Declension) : judge
+- [πλῆθος, πλήθους, τό](https://en.wiktionary.org/wiki/πλῆθος#Declension) : crowd; number, amount
+- [τύχη, τύχης, ἡ](https://en.wiktionary.org/wiki/τύχη#Declension) : luck, fortune (good or bad); fate, chance
+
+### Adverbs
+- [πολλάκις](https://en.wiktionary.org/wiki/πολλάκις#Adverb) : often
+
+### Prepositions
+- [πρὀ (+ gen.)](https://en.wiktionary.org/wiki/πρὀ_#Preposition) : before, in front of
