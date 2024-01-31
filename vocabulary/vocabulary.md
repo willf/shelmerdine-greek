@@ -468,7 +468,7 @@
 ### Nouns
 - [ἀρετή, ἀρετῆς, ἡ](https://en.wiktionary.org/wiki/ἀρετή#Declension) : excellence; virtue; bravery
 - [κίνδυνος, κινδύνου, ὁ](https://en.wiktionary.org/wiki/κίνδυνος#Declension) : danger
-- [κριτἠς, κριτοῦ, ὁ](https://en.wiktionary.org/wiki/κριτἠς#Declension) : judge
+- [κριτής, κριτοῦ, ὁ](https://en.wiktionary.org/wiki/κριτής#Declension) : judge
 - [πλῆθος, πλήθους, τό](https://en.wiktionary.org/wiki/πλῆθος#Declension) : crowd; number, amount
 - [τύχη, τύχης, ἡ](https://en.wiktionary.org/wiki/τύχη#Declension) : luck, fortune (good or bad); fate, chance
 
