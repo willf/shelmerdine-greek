@@ -491,7 +491,7 @@
 ### Adjectives
 - [ἀδύνατος, ἀδύνατον](https://en.wiktionary.org/wiki/ἀδύνατος#Declension) : powerless; impossible
 - [δυνατός, δυνατή, δυνατόν](https://en.wiktionary.org/wiki/δυνατός#Declension) : powerful, strong, able
-- [ἐμὀς, ἐμή, ἐμόν; ἡμέτερος, ἡμέτερα, ἡμέτερον](https://en.wiktionary.org/wiki/ἐμὀς#Declension) : my, our
+- [ἐμός, ἐμή, ἐμόν; ἡμέτερος, ἡμέτερα, ἡμέτερον](https://en.wiktionary.org/wiki/ἐμός#Declension) : my, our
 - [σός, σή, σόν´ὑμέτερος; ὑμέτερα, ὑμέτερον](https://en.wiktionary.org/wiki/σός#Declension) : your
 - [τοιοῦτος, τοιαύτη, τοιοῦτο](https://en.wiktionary.org/wiki/τοιοῦτος#Declension) : such, of such a sort, of this sort
 - [τοσοῦτος, τοσαύτη, τοσοῦτο](https://en.wiktionary.org/wiki/τοσοῦτος#Declension) : so large, so great; so much, so many
