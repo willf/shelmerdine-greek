@@ -483,7 +483,7 @@
 ### Verbs
 - [ἀφικνέομαι, ἀφίξομαι, ἀφικόμην (often + prep.)](https://en.wiktionary.org/wiki/ἀφικνέομαι#Inflection) : arrive (at), come to, reach
 - [δέχομαι, δέξομαι, ἐδέξαμην, .., -εδέχθην](https://en.wiktionary.org/wiki/δέχομαι#Inflection) : receive, accept, take
-- [δὐναμαι, δυνήσομαι, ..., ἐδυνήθην](https://en.wiktionary.org/wiki/δὐναμαι#Inflection) : be able (to)
+- [δύναμαι, δυνήσομαι, ..., ἐδυνήθην](https://en.wiktionary.org/wiki/δύναμαι#Inflection) : be able (to)
 
 ### Pronouns
 - [ὅστις, ἥτις, ὅ τι](https://en.wiktionary.org/wiki/ὅστις#Declension) : whoever, whichever; who, which
