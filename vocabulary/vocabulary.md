@@ -477,3 +477,33 @@
 
 ### Prepositions
 - [πρό (+ gen.)](https://en.wiktionary.org/wiki/πρό_#Preposition) : before, in front of
+
+## Chapter 18
+
+### Verbs
+- [ἀφικωέομαι, ἀφίξομαι, ἀφικόμην (often + prep.)](https://en.wiktionary.org/wiki/ἀφικωέομαι#Inflection) : arrive (at), come to, reach
+- [δέχομαι, δέξομαι, ἐδέξαμην, .., -εδέχθην](https://en.wiktionary.org/wiki/δέχομαι#Inflection) : receive, accept, take
+- [δὐναμαι, δυνήσομαι, ..., ἐδυνήθην](https://en.wiktionary.org/wiki/δὐναμαι#Inflection) : be able (to)
+
+### Pronouns
+- [ὅστις, ἥτις, ὅ τι](https://en.wiktionary.org/wiki/ὅστις#Declension) : whoever, whichever; who, which
+
+### Adjectives
+- [ἀδύνατος, ἀδύνατον](https://en.wiktionary.org/wiki/ἀδύνατος#Declension) : powerless; impossible
+- [δυνατός, δυνατή, δυνατόν](https://en.wiktionary.org/wiki/δυνατός#Declension) : powerful, strong, able
+- [ἐμὀς, ἐμή, ἐμόν; ἡμέτερος, ἡμέτερα, ἡμέτερον](https://en.wiktionary.org/wiki/ἐμὀς#Declension) : my, our
+- [σός, σή, σόν´ὑμέτερος; ὑμέτερα, ὑμέτερον](https://en.wiktionary.org/wiki/σός#Declension) : your
+- [τοιοῦτος, τοιαύτη, τοιοῦτο](https://en.wiktionary.org/wiki/τοιοῦτος#Declension) : such, of such a sort, of this sort
+- [τοσοῦτος, τοσαύτη, τοσοῦτο](https://en.wiktionary.org/wiki/τοσοῦτος#Declension) : so large, so great; so much, so many
+
+### Adverbs
+- [οὕτω (οὕτως before a vowel)](https://en.wiktionary.org/wiki/οὕτω_#Adverb) : so, in this way
+- [πῶς](https://en.wiktionary.org/wiki/πῶς#Adverb) : how?
+
+### Prepositions
+- [παρά (+ gen.)](https://en.wiktionary.org/wiki/παρά_#Preposition) : from (the side of)
+- [παρα (+ dat.)](https://en.wiktionary.org/wiki/παρα_#Preposition) : beside, by (the side of), with (someone), at someone's house
+- [παρά (+ acc.)](https://en.wiktionary.org/wiki/παρά_#Preposition) : to (the side of), alongside; contrary to
+
+### Conjunctions
+- [ὥστε](https://en.wiktionary.org/wiki/ὥστε#Conjunction) : so that, so as to
