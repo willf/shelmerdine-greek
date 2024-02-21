@@ -532,7 +532,7 @@
 - [μείζων, μείζον](https://en.wiktionary.org/wiki/μείζων#Declension) : greater, larger
 - [μέγιστος, μέγιστη, μέγιστον](https://en.wiktionary.org/wiki/μέγιστος#Declension) : greatest, largest
 - [μικρός, μικρά, μικρόν](https://en.wiktionary.org/wiki/μικρός#Declension) : small, little
-- [έλάττων, έλάττον](https://en.wiktionary.org/wiki/έλάττων#Declension) : smaller, fewer
+- [ἐλάττων, έλάττον](https://en.wiktionary.org/wiki/ἐλάττων#Declension) : smaller, fewer
 - [ἐλάχιστος, ἐλάχιστη, ἐλάχιστον](https://en.wiktionary.org/wiki/ἐλάχιστος#Declension) : smallest, least
 - [πολύς, πολλή, πολύ](https://en.wiktionary.org/wiki/πολύς#Declension) : much, many
 - [πλείων / πλέων, πλεῖον, πλέον](https://en.wiktionary.org/wiki/πλείων_/_πλέων#Declension) : more, larger
