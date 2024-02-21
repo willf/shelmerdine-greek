@@ -520,7 +520,7 @@
 - [ἀμείνων, ἀμείνουσα, ἀμείνον](https://en.wiktionary.org/wiki/ἀμείνων#Declension) : better, braver (nobler, more excellent)
 - [ἄριστος, ἄριστη, ἄριστον](https://en.wiktionary.org/wiki/ἄριστος#Declension) : best (noblest, most excellent)
 - [βελτίων, βελτίονος](https://en.wiktionary.org/wiki/βελτίων#Declension) : better (morally)
-- [βέτιστος, βέλτιστη, βέλτιστον](https://en.wiktionary.org/wiki/βέτιστος#Declension) : best (morally)
+- [βέλτιστος, βέλτιστη, βέλτιστον](https://en.wiktionary.org/wiki/βέλτιστος#Declension) : best (morally)
 - [κρείττων, κρείττον](https://en.wiktionary.org/wiki/κρείττων#Declension) : better, stronger
 - [κράτιστος, κράτιστη, κράτιστον](https://en.wiktionary.org/wiki/κράτιστος#Declension) : best, strongest
 - [κακος, κακη, κακον](https://en.wiktionary.org/wiki/κακος#Declension) : bad, evil
