@@ -507,3 +507,46 @@
 
 ### Conjunctions
 - [ὥστε](https://en.wiktionary.org/wiki/ὥστε#Conjunction) : so that, so as to
+
+## Chapter 19
+
+### Verbs
+- [βαίνω, βήσομαι, ἔβην](https://en.wiktionary.org/wiki/βαίνω#Inflection) : go, walk
+- [γιγνώσκω, γνὠσομαι, ἔγνων, ..., έγνώσθην](https://en.wiktionary.org/wiki/γιγνώσκω#Inflection) : know, recognize; know how to (+ inf.)
+- [τελευτάω, τελευτήσω, ἐτελεύτησα, ..., έτελευτήθην](https://en.wiktionary.org/wiki/τελευτάω#Inflection) : die, come to an end
+
+### Adjectives
+- [ἀγαθός, ἀγαθή, ἀγαθόν](https://en.wiktionary.org/wiki/ἀγαθός#Declension) : good
+- [άμεινων, άμείνουσα, άμείνον](https://en.wiktionary.org/wiki/άμεινων#Declension) : better, braver (nobler, more excellent)
+- [ἄριστος, ἄριστη, ἄριστον](https://en.wiktionary.org/wiki/ἄριστος#Declension) : best (noblest, most excellent)
+- [βελτίων, βελτίονος](https://en.wiktionary.org/wiki/βελτίων#Declension) : better (morally)
+- [βέτιστος, βέλτιστη, βέλτιστον](https://en.wiktionary.org/wiki/βέτιστος#Declension) : best (morally)
+- [κρείττων, κρείττον](https://en.wiktionary.org/wiki/κρείττων#Declension) : better, stronger
+- [κράτιστος, κράτιστη, κράτιστον](https://en.wiktionary.org/wiki/κράτιστος#Declension) : best, strongest
+- [κακος, κακη, κακον](https://en.wiktionary.org/wiki/κακος#Declension) : bad, evil
+- [ἤττων, ἤττον](https://en.wiktionary.org/wiki/ἤττων#Declension) : less, fewer; weaker
+- [ἥκιστος, ἥκιστη, ἥκιστον](https://en.wiktionary.org/wiki/ἥκιστος#Declension) : worst
+- [χείρων, χείρον](https://en.wiktionary.org/wiki/χείρων#Declension) : worse
+- [χείριστος, χείριστη, χείριστον](https://en.wiktionary.org/wiki/χείριστος#Declension) : worst
+- [μέγας, μεγάλη, μέγα](https://en.wiktionary.org/wiki/μέγας#Declension) : great, large
+- [μείζων, μείζον](https://en.wiktionary.org/wiki/μείζων#Declension) : greater, larger
+- [μέγιστος, μέγιστη, μέγιστον](https://en.wiktionary.org/wiki/μέγιστος#Declension) : greatest, largest
+- [μικρός, μικρά, μικρόν](https://en.wiktionary.org/wiki/μικρός#Declension) : small, little
+- [έλάττων, έλάττον](https://en.wiktionary.org/wiki/έλάττων#Declension) : smaller, fewer
+- [ἐλάχιστος, ἐλάχιστη, ἐλάχιστον](https://en.wiktionary.org/wiki/ἐλάχιστος#Declension) : smallest, least
+- [πολύς, πολλή, πολύ](https://en.wiktionary.org/wiki/πολύς#Declension) : much, many
+- [πλείων / πλέων, πλεῖον, πλέον](https://en.wiktionary.org/wiki/πλείων_/_πλέων#Declension) : more, larger
+- [πλεῖστος, πλεῖστη, πλεῖστον](https://en.wiktionary.org/wiki/πλεῖστος#Declension) : most, largest
+- [πρότερος, πρότερα, πρότερον](https://en.wiktionary.org/wiki/πρότερος#Declension) : former, earlier; superior
+- [ταχύς, ταχεῖα, ταχύ](https://en.wiktionary.org/wiki/ταχύς#Declension) : fast, quick, swift
+- [θάττων, θάττον](https://en.wiktionary.org/wiki/θάττων#Declension) : faster
+- [τἀχιστος, τἀχιστη, τἀχιστον](https://en.wiktionary.org/wiki/τἀχιστος#Declension) : fastest
+
+### Adverbs
+- [πρῶτον (acc. n.) as adv.](https://en.wiktionary.org/wiki/πρῶτον_#Adverb) : first, at first
+- [ὡς + superlative adv.](https://en.wiktionary.org/wiki/ὡς_+_superlative_adv.#Adverb) : as ... as possible
+
+### Conjunctions
+- [ἥ](https://en.wiktionary.org/wiki/ἥ#Conjunction) : τηαν
+- [ὥς](https://en.wiktionary.org/wiki/ὥς#Conjunction) : as, when
+- [ὥσπερ](https://en.wiktionary.org/wiki/ὥσπερ#Conjunction) : just as, as if
