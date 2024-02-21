@@ -544,7 +544,7 @@
 
 ### Adverbs
 - [πρῶτον (acc. n.) as adv.](https://en.wiktionary.org/wiki/πρῶτον_#Adverb) : first, at first
-- [ὡς + superlative adv.](https://en.wiktionary.org/wiki/ὡς_+_superlative_adv.#Adverb) : as ... as possible
+- [ὡς, + superlative adv.](https://en.wiktionary.org/wiki/ὡς#Adverb) : as ... as possible
 
 ### Conjunctions
 - [ἥ](https://en.wiktionary.org/wiki/ἥ#Conjunction) : τηαν
