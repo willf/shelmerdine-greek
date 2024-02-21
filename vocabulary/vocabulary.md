@@ -524,7 +524,7 @@
 - [κρείττων, κρείττον](https://en.wiktionary.org/wiki/κρείττων#Declension) : better, stronger
 - [κράτιστος, κράτιστη, κράτιστον](https://en.wiktionary.org/wiki/κράτιστος#Declension) : best, strongest
 - [κακος, κακη, κακον](https://en.wiktionary.org/wiki/κακος#Declension) : bad, evil
-- [ἤττων, ἤττον](https://en.wiktionary.org/wiki/ἤττων#Declension) : less, fewer; weaker
+- [ἥττων, ἤττον](https://en.wiktionary.org/wiki/ἥττων#Declension) : less, fewer; weaker
 - [ἥκιστος, ἥκιστη, ἥκιστον](https://en.wiktionary.org/wiki/ἥκιστος#Declension) : worst
 - [χείρων, χείρον](https://en.wiktionary.org/wiki/χείρων#Declension) : worse
 - [χείριστος, χείριστη, χείριστον](https://en.wiktionary.org/wiki/χείριστος#Declension) : worst
