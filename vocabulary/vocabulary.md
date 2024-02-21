@@ -540,7 +540,7 @@
 - [πρότερος, πρότερα, πρότερον](https://en.wiktionary.org/wiki/πρότερος#Declension) : former, earlier; superior
 - [ταχύς, ταχεῖα, ταχύ](https://en.wiktionary.org/wiki/ταχύς#Declension) : fast, quick, swift
 - [θάττων, θάττον](https://en.wiktionary.org/wiki/θάττων#Declension) : faster
-- [τἀχιστος, τἀχιστη, τἀχιστον](https://en.wiktionary.org/wiki/τἀχιστος#Declension) : fastest
+- [τάχιστος, τάχιστη, τάχιστον](https://en.wiktionary.org/wiki/τάχιστος#Declension) : fastest
 
 ### Adverbs
 - [πρῶτον (acc. n.) as adv.](https://en.wiktionary.org/wiki/πρῶτον_#Adverb) : first, at first
