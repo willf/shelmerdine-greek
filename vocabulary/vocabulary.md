@@ -517,7 +517,7 @@
 
 ### Adjectives
 - [ἀγαθός, ἀγαθή, ἀγαθόν](https://en.wiktionary.org/wiki/ἀγαθός#Declension) : good
-- [άμεινων, άμείνουσα, άμείνον](https://en.wiktionary.org/wiki/άμεινων#Declension) : better, braver (nobler, more excellent)
+- [ἀμείνων, ἀμείνουσα, ἀμείνον](https://en.wiktionary.org/wiki/ἀμείνων#Declension) : better, braver (nobler, more excellent)
 - [ἄριστος, ἄριστη, ἄριστον](https://en.wiktionary.org/wiki/ἄριστος#Declension) : best (noblest, most excellent)
 - [βελτίων, βελτίονος](https://en.wiktionary.org/wiki/βελτίων#Declension) : better (morally)
 - [βέτιστος, βέλτιστη, βέλτιστον](https://en.wiktionary.org/wiki/βέτιστος#Declension) : best (morally)
