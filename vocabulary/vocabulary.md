@@ -535,7 +535,7 @@
 - [ἐλάττων, έλάττον](https://en.wiktionary.org/wiki/ἐλάττων#Declension) : smaller, fewer
 - [ἐλάχιστος, ἐλάχιστη, ἐλάχιστον](https://en.wiktionary.org/wiki/ἐλάχιστος#Declension) : smallest, least
 - [πολύς, πολλή, πολύ](https://en.wiktionary.org/wiki/πολύς#Declension) : much, many
-- [πλείων / πλέων, πλεῖον, πλέον](https://en.wiktionary.org/wiki/πλείων_/_πλέων#Declension) : more, larger
+- [πλείων, πλεῖον / πλέων, πλέον](https://en.wiktionary.org/wiki/πλείων#Declension) : more, larger
 - [πλεῖστος, πλεῖστη, πλεῖστον](https://en.wiktionary.org/wiki/πλεῖστος#Declension) : most, largest
 - [πρότερος, πρότερα, πρότερον](https://en.wiktionary.org/wiki/πρότερος#Declension) : former, earlier; superior
 - [ταχύς, ταχεῖα, ταχύ](https://en.wiktionary.org/wiki/ταχύς#Declension) : fast, quick, swift
